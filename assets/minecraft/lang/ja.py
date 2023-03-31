@@ -12,13 +12,13 @@ def detect_scripts(item):
     katakana_range = range(0x30A0, 0x3100)
     kanji_range = range(0x4E00, 0x9FBF)
     if ord(item[0]) in hiragana_range:
-        color = '\u00A7a'
-    elif ord(item[0]) in katakana_range:
         color = '\u00A7b'
+    elif ord(item[0]) in katakana_range:
+        color = '\u00A73'
     elif ord(item[0]) in kanji_range:
-        color = '\u00A74'
+        color = '\u00A79'
     else:
-        color = '\u00A76'
+        color = '\u00A7a'
     return color
 
 def to_hiragana(text):
@@ -32,7 +32,7 @@ def to_hiragana(text):
             color = detect_scripts(str(item['orig']))
             orig_str = orig_str + color + item['orig']
             hiragana_str = hiragana_str + color + item['hira']
-        if '\u00A74' in orig_str:
+        if '\u00A79' in orig_str:
             converted = orig_str + ' \u00A7r(' + hiragana_str + '\u00A7r)'
         else:
             converted = orig_str
