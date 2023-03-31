@@ -13,6 +13,11 @@
       "name": "日本語 (Learn)",
       "region": "日本 (Learn)",
       "bidirectional": "false"
+    },
+    "zh_x": {
+      "name": "简体中文 (jiǎntǐzhōngwén) (Learn)",
+      "region": "中国大陆 (zhōngguódàlù) (Learn)",
+      "bidirectional": "false"
     }
  }
 }

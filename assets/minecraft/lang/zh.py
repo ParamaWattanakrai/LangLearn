@@ -22,5 +22,5 @@ for value in data.values():
     print(data[key_list[i]])
     i += 1
 
-with open('zh_cn.json', 'w', encoding='utf8') as f:
+with open('zh_test.json', 'w', encoding='utf8') as f:
     json.dump(data, f, ensure_ascii=False, indent=4)

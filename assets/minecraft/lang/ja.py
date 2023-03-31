@@ -51,7 +51,7 @@ i = 0
 for value in data.values():
     data[key_list[i]] = to_hiragana(value)
     #print(data[key_list[i]])
-    i = i + 1
+    i += 1
 
 with open('ja_x.json', 'w', encoding='utf8') as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
