@@ -1,0 +1,4619 @@
+the Drücke die Eingabetaste, um die Sprachausgabe zu aktivieren.
+das Willkommen bei Minecraft!
+
+Möchtest du die Sprachausgabe aktivieren oder die Barrierefreiheitseinstellungen besuchen?
+das Fertig
+die Serveradresse
+der Servername
+die Adresse verstecken
+die Server‐Ressourcenpakete
+die Deaktiviert
+die Aktiviert
+die Abfrage
+die Serverinformationen bearbeiten
+die Benutze „@e“, um alle Objekte auszuwählen
+die Benutze „@a“, um alle Spieler auszuwählen
+der Befehl
+der Modus
+die Wiederholen
+das Immer aktiv
+die Bedingt
+der Impuls
+der Benötigte Redstone
+die Verketten
+das Unbedingt
+die Benutze „@p“, um den nächsten Spieler auszuwählen
+the Nur ein Operator im Kreativ-Modus kann Befehle eingeben
+Die Befehlsblöcke sind auf diesem Server nicht eingeschaltet
+die Letzte Ausgabe
+die Benutze „@r“, um einen zufälligen Spieler auszuwählen
+die Benutze „@s“, um das auszuführende Objekt auszuwählen
+den Befehl eingeben
+der Befehl gesetzt: %s
+die Ausgabe verfolgen
+die Auslösungen
+der Typ
+der Unbekannter Fortschritt ‚%s‘
+die Entdecke alle Biome
+die Abenteuerzeit
+die Erlege fünf unterschiedliche Kreaturen mit einem Armbrustschuss
+die Armbrustschütze
+die Schleiche in der Nähe eines Sculk‐Sensors oder Wärters, um zu verhindern, dass du bemerkt wirst
+Schleichen 100
+the Triff sterben Mitte eines Zielblocks aus mindestens 30 Blöcken Entfernung
+der Volltreffer!
+the Stürze im freien Fall von der Weltobergrenze (die maximale Bauhöhe) bis zur Weltuntergrenze und überlebe
+die Höhlen & Klippen
+the Verteidige ein Dorf erfolgreich vor einem Überfall
+der Dorfheld
+the Springe an einen Honigblock, um deinen Sturz abzufangen
+Die Eine klebrige Angelegenheit
+die Erlege ein Monster
+der Monsterjäger
+die Erlege jedes Monsters mindestens ein Mal
+der Meisterjäger
+the Erlege eine Kreatur in der Nähe eines Sculk‐Katalysators
+das Es verbreitet sich
+the Schütze einen Dorfbewohner vor einem unerwünschten Schock, ohne dabei einen Brand auszulösen
+der Überspannungsschutz
+the Feuere eine Armbrust ab
+das Ich habe die Knarre gesichert
+the Belebe die Alm mit dem Klang der Musik aus einem Plattenspieler
+die Deine Welt sind die Berge
+Abenteuer, Erforschung und Kampf
+das Abenteuer
+der Triff ein Wesen mit einem Pfeil
+die Zielübungen
+the Schlafe in a Bett, um deinen Wiedereinstiegspunkt zu ändern
+der Träum war Schönes
+the Erlege ein Skelett aus mindestens 50 Blöcken Entfernung
+das Scharfschützenduell
+the Betrachte den Enderdrachen durch ein Fernrohr
+das Ist es ein Flugzeug?
+die Betrachter einen Ghast durch ein Fernrohr
+the Ist es ein Ballon?
+die Betrachter einen Papagei durch ein Fernrohr
+der Ist es ein Vogel?
+the Baue einen Eisengolem, um bei der Verteidigung eines Dorfes mitzuhelfen
+das 1. Gesetz der Robotik
+das Wirf deinen Dreizack auf irgendetwas.
+Hinweis: Es ist keine gute Idee, deine einzige Waffe wegzuwerfen.
+das Ein Witz zum Wegwerfen
+the Benutze ein Totem der Unsterblichkeit, um dem Tod von der Schippe zu springen
+die Obduktion
+the Schließe einen Handel mit einem Dorfbewohner ab
+das Was für ein Geschäft!
+the Handle mit einem Dorfbewohner auf der maximalen Bauhöhe
+der Sternenhändler
+die Erlege zwei Phantome mit einem Durchschuss
+die Zwei auf einen Streich
+the Triff einen Dorfbewohner mit einem Blitz
+die Angst und Schrecken
+der Töte einen Räuberhauptmann.
+Ziehe möglicherweise in Betracht, dich vorerst von Dörfern fernzuhalten …
+das Freiwillige Exil
+the Gehe auf Pulverschnee, ohne darin zu versinken
+das Leicht wie ein Kaninchen
+the Gib einem Plünderer eine Kostenprobe seiner eigenen Medizin
+Wer ist jetzt der Plünderer?
+das Hier scheint es nichts zu geben …
+the Sammle Drachenatem in einer Glasflasche
+das Du brauchst ein Pfefferminz
+die Halte das Drachenei
+Die nächste Generation
+der Finde Elytren
+Hinterm Horizont geht’s weiter
+die Entkomme der Insel
+der Im Transit
+Geh doch rein, was kann schon passieren?
+Die Stadt am Ende des Spiels
+das Viel Glück
+das Befreie das Ende
+the Schwebe durch ein Shulker-Geschoss 50 Blöcke aufwärts
+die Schöne Aussicht von hier oben
+die Rufe den Enderdrachen ins Leben zurück
+the Das Ende … Schon wieder …
+die … oder der Anfang?
+Das Ende
+the Lass einen Hilfsgeist einen Kuchen bei einem Notenblock ablegen
+das Geburtstagslied
+the Lass dir einen Gegenstand von einem Hilfsgeist liefern
+das Du hast ’n Freund in mir
+der Fang einen Axolotl mit einem Eimer
+das niedlichste Raubtier
+the Iss alles Essbare, selbst wenn es nicht gut für dich ist
+die Ausgewogene Ernährung
+die Vermehre alle Tierarten!
+die Paarweise
+die Vermehre zwei Tiere
+Die Hühnchen und die Blümchen
+die Zähme alle Katzenarten!
+das Ein kompletter Katerlog
+der Fang einen Fisch
+das Anglerglück
+die Habe alle Froschlichter im Inventar
+die Mit vereinten Kräften!
+the Verbund dich mit einem Axolotl und gewinne einen Kampf
+Die heilende Kraft der Freundschaft!
+die Habe jede Froschart an einer Leine
+das Wenn die Kerle um die Häuser ziehen
+the Lass den Text einer beliebigen Art von Schild leuchten
+die Leuchte und Staune!
+the Benutze einen Netheritbarren, um eine Hacke aufzuwerten, und denke dann über deine Lebensentscheidungen nach
+die Meine größte Leidenschaft
+the Säe Samen und sieh ihnen beim Wachsen zu
+der Hobbygärtner
+die Steige in ein Boot und mach mit einer Ziege die Fliege
+die Ohne Geiß kein Preis!
+Die Welt ist voller Freunde und Essen
+die Landwirtschaft
+the Benutze ein Lagerfeuer, um Honig aus einem Bienenstock mit einer Flasche zu sammeln, ohne die Bienen zu reizen
+die Sssei unser Gast
+die Bewege ein von drei Bienen bewohntes Bienennest mit Behutsamkeit
+die Bienenwanderung
+der Fang einen Fisch … ohne Angel!
+das Taktische Fischen
+der Fang eine Kaulquappe in einem Eimer
+der Im Eimer
+die Zähme ein Tier
+die Allerbesten Freunde
+das Schabe Wachs von einem Kupferblock ab!
+das Polieren
+the Wachse einen Kupferblock mit einer Honigwabe!
+die Aufträge
+der Habe jeden Statuseffekt gleichzeitig
+Wie haben wir das geschafft?
+der Habe jeden Trankeffekt gleichzeitig
+die Eine gefährliche Mischung
+der Braue einen Trank
+die Alchemie
+the Lade einen Seelenanker auf die höchste Stufe auf
+das Nicht ganz „sieben“ Leben
+the Baue und aktiviere ein Leuchtfeuer
+die Den Nachbarn heim leuchten
+Bring ein Leuchtfeuer auf volle Stärke
+die Leuchtturmwärter
+die Lenke Piglins mit Gold ab
+die Oh, wie glänzend!
+die Entdecke alle Netherbiome
+die heißbegehrten Ziele
+die Nutze den Nether, um 7 km in der Oberwelt zu reisen
+der Subraumtransport
+die Betritt eine Bastionsruine
+das waren noch zeiten …
+the Brich in einer Netherfestung ein
+Die Eine schreckliche Festung
+die Erbeute einen Witherskelettschädel
+das Ein grausiges, düsteres Skelett
+die Plündere eine Truhe in einer Bastionsruine
+die Kampfschweine
+the Besorge dir eine komplette Netheritrüstung
+das Bedeck mich mit Schrott
+die Beschaffe antike Schrott
+die Verborgen in den Tiefen
+the Erleichtere eine Lohe um ihre Rute
+das Spiel mit dem Feuer
+der Beschaffe weinenden Obsidian
+Wer schneidet hier Zwiebeln?
+the Schlage einen Ghast mit seinen eigenen Waffen
+der Zurück zum Absender
+the Reite einen Schreiter mit einer Wirrpilzrute
+die Mach diesem „Boot“ Beine
+the Unternimm mit einem Schreiter einen laaaangen Ritt auf einem Lavasee in der Oberwelt
+das Ganz wie zu Hause
+der Zieh dir war Kurzes an
+die Unterwelt
+die Erschaffe den Wither
+die umwitterten Höhen
+the Entführe einen Ghast aus dem Nether, bringe ihn sicher in die Oberwelt … und erlege ihn dann
+die Unheilvolle Allianz
+the Benutze einen Kompass an einem Leitstein
+die Weißt du, wo die Leitstein’ stehen?
+Die :(
+the Schwäche einen Zombiedorfbewohner und heile ihn dann
+der Zombiearzt
+die Lenke ein Geschoss mit einem Schild ab
+das Heute nicht, danke
+the Verzaubere einen Gegenstand an einem Zaubertisch
+der Verzauberer
+den Betritt das Endportal
+Das Ende?
+the Baue, entzünde und betritt ein Netherportal
+das Wir müssen noch tiefer
+die Folge einem Enderauge
+Das fliegende Auge
+die Beschaffe einen Obsidianblock
+die Ice-Bucket-Challenge
+die Verbesserte deine Spitzhacke
+das Zu viel Eisen im Blut
+die Fülle einen Eimer mit Lava
+die Manche mögen’s heiß
+die Beschaffe Diamanten
+die Diamanten!
+the Baue Stein mit deiner neuen Spitzhacke ab
+die Steinzeit
+die Schütze dich mit einem Rüstungsteil aus Eisen
+das Mach dich fein
+Der Kern und die Geschichte des Spiels
+das Minecraft
+die Diamantrüstung rettet Leben
+das Bedeck mich mit Diamanten
+die Schmilz Eisenerz im Ofen zu einem Eisenbarren
+die Metallurgie
+die Stelle eine bessere Spitzhacke her
+Der Technische Fortschritt
+die Aufgabe erledigt!
+das Ziel erreicht!
+der Fortschritt erzielt!
+die Ungültige Objektankerposition ‚%s‘
+der Unvollständige (1 Blickwinkel erwartet)
+Der Ungültige Winkel
+der Unbekannter Block ‚%s‘
+der Zustand ‚%s‘ kann nur einmal für den Block %s gesetzt werden
+der Block %s akzeptiert ‚%s‘ für Blockzustand ‚%s‘ nicht
+der Fehlende Wert für Zustand ‚%s‘ des Blocks %s
+die Schließende Klammer ] für Blockzustand erwartet
+der Block %s besitzt den Zustand ‚%s‘ nicht
+der Alias sind hier nicht erlaubt, nur tatsächliche Blöcke
+die Unbekannte Farbe ‚%s‘
+die Ungültige Textkomponente ‚%s‘
+das Unbekannte Kriterium ‚%s‘
+die Unbekannte Dimension ‚%s‘
+die Kommazahl darf nicht größer als %s sein, %s ist zu groß
+die Kommazahl darf nicht kleiner als %s sein, %s ist zu klein
+der Ungültiger Name oder die ungültige UUID
+das Es wurde kein Objekt gefunden
+die Es wurde kein Spieler gefunden
+die Spieler mit Fortschritten
+die Entfernung zum Objekt
+Die Entfernung darf nicht negativ sein
+die Objekte zwischen X und X + dX
+die Objekte zwischen Y und Y + dY
+die Objekte zwischen Z und Z + dZ
+der Spieler mit Spielmodus
+der Filter ‚%s‘ ist hier nicht anwendbar
+die Erfahrungsstufe
+die Erfahrungsstufe darf nicht negativ sein
+die Maximale Anzahl zurückzuliefernder Objekte
+das Limit muss mindestens 1 betragen
+der Ungültiger oder unbekannter Spielmodus ‚%s‘
+der Objektname
+die Objekte mit NBT
+das Benutzerdefinierte Prädikat
+die Objekte mit Punkteständen
+die Objekte sortieren
+die Ungültige oder unbekannte Sortierung ‚%s‘
+die Objekte mit Etikett
+die Objekte im Team
+die Objekte des Typen
+der Ungültiger oder unbekannter Objekttyp ‚%s‘
+der Unbekannter Filter ‚%s‘
+die Schließende Klammer ] für Filter erwartet
+der Wert für Filter ‚%s‘ erwartet
+die X-Position
+die Kopfneigung des Objekts
+die Y-Position
+die Blickrichtung des Objekts
+die Z-Position
+die Alle Objekte
+die Alle Spieler
+Der Fehlende Selektor
+der Nächste Spieler
+der Selektor nicht erlaubt
+der Zufälliger Spieler
+das Aktuelle Objekt
+der Unbekannter Selektor ‚%s‘
+the Nur ein Objekt ist erlaubt, aber der angegebene Selektor könnte mehrere liefern
+der Ungültige Wert „%s“
+die Kommazahl darf nicht größer als %s sein, %s ist zu groß
+die Kommazahl darf nicht kleiner als %s sein, %s ist zu klein
+der Unbekannter Spielmodus ‚%s‘
+die Ungültige ID
+die Unbekannte ID ‚%s‘
+die Ganzzahl darf nicht größer als %s sein, %s ist zu groß
+die Ganzzahl darf nicht kleiner als %s sein, %s ist zu klein
+der Unbekannter Gegenstand ‚%s‘
+der Alias sind hier nicht erlaubt, nur tatsächliche Gegenstände
+die Zeichenfolge ‚%s‘ erwartet
+Die Lange Ganzzahl darf nicht größer als %s sein, %s ist zu groß
+Die Lange Ganzzahl darf nicht kleiner als %s sein, %s ist zu klein
+der Ungültiger Array-Typ ‚%s‘
+das %s kann nicht in %s eingefügt werden
+die Eigenschaft erwartet
+der Wert erwartet
+das %s kann nicht in die Liste von %s eingefügt werden
+die unverwartete nachfolgende Daten
+the This command can Nur auf Spieler angewendet Werden, der angegebene Selektor schließt aber auch Objekte mit ein
+the Nur ein Spieler ist erlaubt, aber der angegebene Selektor könnte mehrere liefern
+the Dieser Spieler existiert nicht
+die Koordinate erwartet
+die Blockposition erwartet
+the Lokale und globale Koordinaten dürfen nicht gemischt werden (entweder alles mit ^ oder ohne)
+the This position liegt außerhalb des erlaubten Bereichs.
+the This position is also out of the world
+die Diese Position ist nicht geladen
+das Unvollständige (2 Koordinaten erwartet)
+das Unvollständige (3 Koordinaten erwartet)
+der Wert oder Wertebereich erwartet
+die Nur Ganzzahlen ohne Nachkommastellen erlaubt
+Der Minimalwert darf nicht größer als der Maximalwert sein
+das Element ‚%s‘ hat einen falschen Typ ‚%s‘ (‚%s‘ erwartet)
+das Element ‚%s‘ des Typs ‚%s‘ nicht gefunden
+das Etikett ‚%s‘ hat einen falschen Typ ‚%s‘ (‚%s‘ erwartet)
+das Etikett ‚%s‘ des Typs ‚%s‘ nicht gefunden
+the Unvollständig (2 Rotationsangaben erwartet)
+the Es wurden keine relevanten Punktehalter gefunden
+die Unbekannte Anzeigeposition ‚%s‘
+Die Anzahl der Ticks darf nicht negativ sein
+Die Ungültige Einheit
+die Anzahl der Ticks darf nicht kleiner als %s sein, %s gefunden
+die Ungültige UUID
+der Unbekannter Blockalias ‚%s‘
+der Unbekannter Funktionsalias ‚%s‘
+die Unbekannte Funktion ‚%s‘
+die Maximale Stapelgröße von %s ist %s
+der Unbekannter Gegenstandsalias ‚%s‘
+das Ungültige Element im NBT-Pfad
+the Es wurden keine Elemente gefunden, sterben %s entsprechen
+das Resultierende NBT zu tief verschachtelt
+der Resultierende NBT zu groß
+das unbekannte Ziel ‚%s‘
+the Das Ziel %s kann nur ausgelesen werden
+the Durch Null kann nicht geteilt werden
+die Ungültige Operation
+die Ungültige Achsenkombination von X, Y und Z
+die %s %s
+die %s %% %s
+die %s %% %s
+die +%s %s
+die +%s %% %s
+die +%s %% %s
+das -%s %s
+die -%s %% %s
+die -%s %% %s
+die Rüstung
+die Rüstungshärte
+der Angriffsschaden
+der Angriffsrückstoß
+die Angriffsgeschwindigkeit
+die Fluggeschwindigkeit
+die Kreaturen-Folgedistanz
+die Standfestigkeit
+das Glück
+die Maximale Gesundheit
+die Schnelligkeit
+die Pferdesprungstärke
+die Zombie-Verstärkung
+die Tafelberge
+der Bambusdschungel
+die Basaltdeltas
+Der Strand
+der Birkenwald
+Der Kirschberghain
+Der Kalte Ozean
+Der Karmesinwald
+Der Dichterwald
+der Kalte Tiefsee
+das Tiefe Dunkel
+der Vereiste Tiefsee
+der Lauwarme Tiefsee
+der Tiefsee
+die Wüste
+die Tropfsteinhöhlen
+das End-Kargland
+das End-Hochland
+das Endmittelland
+die Abgetragenen Tafelberge
+Der Blumenwald
+der Wald
+Der Vereister Ozean
+der Vereiste Gipfel
+Der Vereister Fluss
+das Berghain
+die Eiszapfentundra
+der Zerklüftete Gipfel
+der Dschungel
+Der Lauwarme Ozean
+die Üppigen Höhlen
+Der Mangrovensumpf
+die Alm
+das Pilzland
+Nieder-Ödland
+der Ozean
+der Birken-Urwald
+die Kiefern-Urtaiga
+die Fichten-Urtaiga
+die Ebene
+der Fluß
+die Savanne
+die Savannenhochebene
+Die kleinen Endinseln
+Der Verschneiter Strand
+die Verschneite Ebene
+die Verschneite Hänge
+die Verschneite Taiga
+das Seelensandtal
+Der Lichter-Dschungel
+der Steinige Gipfel
+die Steinige Küste
+die Sonnenblumenebene
+der Sumpf
+die Taiga
+Das Ende
+Die Leere
+der wärmere Ozean
+Der Wirrwald
+Der Zerzauster Wald
+der Zerzauste Geröllhügel
+Der Zerzauste Hügel
+die Zerzauste Savanne
+die Bewaldeten Tafelberge
+der Akazienholzknopf
+die Akazienholztür
+der Akazienholzzaun
+das Akazienholzzauntor
+das Akazienholzhängeschild
+die Akazienlaube
+der Akazienstamm
+die Akazienholzbretter
+die Akazienholzdruckplatte
+der Akaziensetzling
+das Akazienholzschild
+die Akazienholzstufe
+die Akazienholztreppe
+die Akazienholzfalltür
+das Akazienholzwandhängeschild
+das Akazienholzwandschild
+das Akazienholz
+die Aktivierungsschiene
+die Luft
+der Zierlauch
+der Amethystblock
+Der Amethystaufen
+Der Antiker Schrott
+die Andesiten
+die Andesitstufe
+die Andesittreppe
+die Andesitmauer
+der Botschafter
+die Melonenranke
+die Kürbisranke
+die Azalee
+die Azaleenlaub
+das Porzellansternchen
+der Bambus
+der Bambusblock
+der Bambusknopf
+die Bambustür
+der Bambuszaun
+das Bambuszauntor
+das Bambushängeschild
+das Bambusmosaik
+die Bambusmosaikstufe
+die Bambusmosaiktreppe
+der Bambusbretter
+die Bambusdruckplatte
+der Bambussprössling
+das Bambusschild
+die Bambusstufe
+die Bambustreppe
+die Bambusfalltür
+das Bambuswandhängeschild
+das Bambuswandschild
+Das Vollständige Schwarze Feld
+das Vollständige Blaue Feld
+das Vollständige Braune Feld
+das Vollständige Türkische Feld
+das Vollgrauständige Feld
+das Vollständige grüne Feld
+das Vollständig hellblaue Feld
+das Vollständig hellgraue Feld
+das Vollständig hellgrüne Feld
+das Vollständige Magenta Feld
+das Vollständige Orangenfeld
+das Vollständige Rosa Feld
+das Vollständig violette Feld
+das Vollständige Rote Feld
+das Vollständige weiße Feld
+das Vollgelbständige Feld
+das Schwarze Bord
+das Blaue Bord
+das Braune Bord
+die Türkische Grenze
+die Graue Grenze
+das Grüne Bord
+das Hellblaue Bord
+das Hellgraue Bord
+das Hellgrüne Bord
+die Magenta-Bord
+das Orange Bord
+die Rosa Bord
+das Violette Bord
+das Rote Bord
+die Weiße Grenze
+das Gelbe Bord
+das Feld schwarz gemauert
+das Feld blau gemauert
+das Feld braun gemauert
+das Feld türkis gemauert
+das Feld grau gemauert
+das Feld grün gemauert
+das Feld hellblau gemauert
+das Feld hellgrau gemauert
+das Feld hellgrün gemauert
+das Feld magenta gemauert
+das Feld orange gemauert
+das Feld rosa gemauert
+das Feld violett gemauert
+das Feld rot gemauert
+das Feld weiß gemauert
+das Feld gelb gemauert
+Die Schwarze Kugel
+die Blaue Kugel
+Die Braune Kugel
+die Türkise Kugel
+die Graue Kugel
+die Grüne Kugel
+die Hellblaue Kugel
+die Hellgraue Kugel
+die Hellgrüne Kugel
+die magentarote Kugel
+die Orange Kugel
+die Rosakugel
+die Violette Kugel
+die Rote Kugel
+Die Weiße Kugel
+die Gelbe Kugel
+der Schwarze Creeper
+der Blaue Creeper
+die Brauner Creeper
+der Türkiser Creeper
+der Graue Creeper
+die Grüne Creeper
+die Hellblaue Kriechpflanze
+die Hellgraue Schlingpflanze
+die Hellgrüner Schlingpflanze
+der Magenta Creeper
+der orangefarbene Creeper
+die Rosa Creeper
+die Violetter Creeper
+der Rote Kriecher
+die Weiße Creeper
+die Gelbe Creeper
+das Schwarze Andreaskreuz
+das Blaue Andreaskreuz
+das Braune Andreaskreuz
+das Türkise Andreaskreuz
+das Graue Andreaskreuz
+das Grüne Andreaskreuz
+das Hellblaue Andreaskreuz
+das Hellgraue Andreaskreuz
+das Hellgrüne Andreaskreuz
+das Magenta Andreaskreuz
+das Orangen Andreaskreuz
+das Rosa-Andreas-Kreuz
+das Violette Andreaskreuz
+das Rote Andreaskreuz
+das Weiße Andreaskreuz
+das Gelbe Andreaskreuz
+das Schwarze Spickelbord
+das Blaue Spickelbord
+das Braune Spickelbord
+das Türkiser Speckelbord
+das Graue Spickelbord
+das Grüne Spickelbord
+das Hellblaue Spickelbord
+das Hellgraue Spickelbord
+das Hellgrüne Spickelbord
+das Magenta Spickelbord
+das Oranger Spickelbord
+das Rosa Pickelbord
+das Violetter Spickelbord
+das Rote Spickelbord
+das Weiße Spickelbord
+das Gelbe Spickelbord
+die Schwarz schräglinks geteilt
+das Blau schräglinks geteilt
+die Braun schräglinks geteilt
+die türkis schräglinks geteilt
+die Grau schräglinks geteilt
+das Grün schräglinks geteilt
+die Hellblau schräglinks geteilt
+die Hellgrau schräglinks geteilt
+die Hellgrün schräglinks geteilt
+die Magenta schräglinks geteilt
+die Orange schräglinks geteilt
+die Rosa schräglinks geteilt
+die Violett schräglinks geteilt
+die Rot schräglinks geteilt
+die Weiß schräglinks geteilt
+das Gelb schräglinks geteilt
+der Schwarz schrägrechts geteilt
+das Blau schrägrechts geteilt
+der Braun schrägrechts geteilt
+das Türkis schrägrechts geteilt
+die Grau schrägrechts geteilt
+das Grün schrägrechts geteilt
+die Hellblau schrägrechts geteilt
+das Hellgrau schrägrechts geteilt
+die Hellgrün schrägrechts geteilt
+das Magenta schrägrechts geteilt
+die Orange schrägrechts geteilt
+die Rosa schrägrechts geteilt
+die Violett schrägrechts geteilt
+die Rot schrägrechts geteilt
+das Weiß schrägrechts geteilt
+das Gelb schrägrechts geteilt
+der Schwarz schrägrechts geteilt (Invertiert)
+das Blau schrägrechts geteilt (Invertiert)
+der Braun schrägrechts geteilt (Invertiert)
+the Türkis schrägrechts geteilt (Invertiert)
+das Grau schrägrechts geteilt (Invertiert)
+das Grün schrägrechts geteilt (Invertiert)
+the Hellblau schrägrechts geteilt (Invertiert)
+the Hellgrau schrägrechts geteilt (Invertiert)
+the Hellgrün schrägrechts geteilt (Invertiert)
+the Magenta schrägrechts geteilt (Invertiert)
+the Orange schrägrechts geteilt (Invertiert)
+die Rosa schrägrechts geteilt (Invertiert)
+the Violett schrägrechts geteilt (Invertiert)
+the Rot schrägrechts geteilt (Invertiert)
+das Weiß schrägrechts geteilt (Invertiert)
+das Gelb schrägrechts geteilt (Invertiert)
+der Schwarz schräglinks geteilt (Invertiert)
+das Blau schräglinks geteilt (Invertiert)
+der Braun schräglinks geteilt (Invertiert)
+the Türkis schräglinks geteilt (Invertiert)
+the Grau schräglinks geteilt (Invertiert)
+das Grün schräglinks geteilt (Invertiert)
+the Hellblau schräglinks geteilt (Invertiert)
+the Hellgrau schräglinks geteilt (Invertiert)
+the Hellgrün schräglinks geteilt (Invertiert)
+the Magenta schräglinks geteilt (Invertiert)
+the Orange schräglinks geteilt (Invertiert)
+die Rosa schräglinks geteilt (InvertierT)
+the Violett schräglinks geteilt (Invertiert)
+the Rot schräglinks geteilt (Invertiert)
+die Weiß schräglinks geteilt (Invertiert)
+das Gelb schräglinks geteilt (Invertiert)
+Die Schwarze Blume
+die Blaue Blume
+die Braune Blume
+die Türkise Blume
+die Graue Blume
+Die Grüne Blume
+die Hellblaue Blume
+die Hellgraue Blume
+die Hellgrüne Blume
+die Magenta-Blume
+die Orange Blume
+die RosaBlume
+die Violette Blume
+Die Rote Blume
+Die Weiße Blume
+die Gelbe Blume
+Der Schwarze Globus
+Der Blaue Globus
+Der Braune Globus
+Türkischer Globus
+Der Graue Globus
+Der Grüne Globus
+Der Hellblaue Globus
+Der Hellgraue Globus
+Der Hellgrüne Globus
+der Magenta-Globus
+der orange Globus
+der RosaGlobus
+Der Violette Globus
+Der Rote Globus
+Der Weiße Globus
+Der Gelbe Globus
+der Schwarze Farbverlauf
+der Blaue Farbverlauf
+Der Brauner Farbverlauf
+der Türkiser Farbverlauf
+der Graue Farbverlauf
+der Grüne Farbverlauf
+der Hellblaue Farbverlauf
+der Hellgraue Farbverlauf
+der Hellgrüne Farbverlauf
+den magentafarbenen Farbverlauf
+der orangefarbene Farbverlauf
+der Rosa-Farbverlauf
+der Violetter Farbverlauf
+Der Rote Farbverlauf
+der Weiße Farbverlauf
+der Gelbe Farbverlauf
+der Schwarze Farbverlauf (Invertiert)
+der Blaue Farbverlauf (Invertiert)
+der Brauner Farbverlauf (Invertiert)
+der Türkiser Farbverlauf (Invertiert)
+der Grauer Farbverlauf (Invertiert)
+der Grüne Farbverlauf (Invertiert)
+der Hellblaue Farbverlauf (Invertiert)
+der Hellgraue Farbverlauf (Invertiert)
+der Hellgrüne Farbverlauf (Invertiert)
+der Magenta Farbverlauf (Invertiert)
+der Oranger Farbverlauf (Invertiert)
+der Rosa Farbverlauf (Invertiert)
+der Violetter Farbverlauf (Invertiert)
+der Rote Farbverlauf (Invertiert)
+der Weiße Farbverlauf (Invertiert)
+der Gelbe Farbverlauf (Invertiert)
+der Oben schwarz geteilt
+der Oben blau geteilt
+der Oben braun geteilt
+der Oben türkis geteilt
+der Oben grau geteilt
+der Oben grün geteilt
+der Oben hellblau geteilt
+der Oben hellgrau geteilt
+der Oben hellgrün geteilt
+der Oben magenta geteilt
+der Oben orange geteilt
+der Oben rosa geteilt
+der Oben violett geteilt
+der Oben rot geteilt
+der Oben weiß geteilt
+der Oben gelb geteilt
+die Unten schwarz geteilt
+die Unten blau geteilt
+die Unten braun geteilt
+die Unten türkis geteilt
+die Unten grau geteilt
+die Unten grün geteilt
+die Unten hellblau geteilt
+die Unten hellgrau geteilt
+die Unten hellgrün geteilt
+die Unten magenta geteilt
+die Unten orange geteilt
+die Unten rosa geteilt
+die Unten violett geteilt
+die Unten rot geteilt
+die Unten weiß geteilt
+die Unten gelb geteilt
+die Rechts schwarz gespalten
+das Rechts blau gespalten
+die Rechts braun gespalten
+die Rechts türkis gespalten
+die Rechts grau gespalten
+die Rechts grün gespalten
+die Rechts hellblau gespalten
+die Rechts hellgrau gespalten
+die Rechts hellgrün gespalten
+die Rechts magenta gespalten
+die Rechts orange gespalten
+die Rechts rosa gespalten
+die rechts violett gespalten
+die Rechts rot gespalten
+die Rechts weiß gespalten
+die rechts gelb gespalten
+die Links schwarz gespalten
+die Links blau gespalten
+die Links braun gespalten
+die Links türkis gespalten
+die Links grau gespalten
+die Links grün gespalten
+die Links hellblau gespalten
+die Links hellgrau gespalten
+die Links hellgrün gespalten
+die Links magenta gespalten
+die Links orange gespalten
+die Links rosa gespalten
+die Links violett gespalten
+die Links rot gespalten
+die Links weiß gespalten
+die Links gelb gespalten
+das Schwarzes Mojang-Logo
+das Blaue Mojang-Logo
+das Braune Mojang-Logo
+das Türkise Mojang-Logo
+das Graue Mojang-Logo
+das Grüne Mojang-Logo
+das hellblaue Mojang-Logo
+das hellgraue Mojang-Logo
+das hellgrüne Mojang-Logo
+das magentafarbene Mojang-Logo
+das Oranges Mojang-Logo
+das Rosa Mojang-Logo
+das Violettes Mojang-Logo
+das Rotes Mojang-Logo
+das Weiße Mojang-Logo
+das Gelbe Mojang-Logo
+die Schwarze Schnauze
+die Blaue Schnauze
+die Braune Schnauze
+die Türkise Schnauze
+die Graue Schnauze
+die Grüne Schnauze
+die Hellblaue Schnauze
+die Hellgraue Schnauze
+die Hellgrüne Schnauze
+die Magenta Schnauze
+die orange Schnauze
+die Rosa Schnauze
+die Violette Schnauze
+die Rote Schnauze
+die Weiße Schnauze
+die Gelbe Schnauze
+Die Schwarze Raute
+die Blaue Raute
+die Braune Raute
+die Türkise Raute
+die Graue Raute
+die Grüne Raute
+die Hellblaue Raute
+die Hellgraue Raute
+die Hellgrüne Raute
+die Magenta Raute
+die orangefarbene Raute
+die Rosa Raute
+die Violette Raute
+die Rote Raute
+Die Weiße Raute
+die Gelbe Raute
+der Schwarze Schädel
+Der Blaue Schädel
+Der Braune Schädel
+Der Türkische Schädel
+Der Graue Schädel
+der Grüne Schädel
+Der Hellblaue Schädel
+Der Hellgraue Schädel
+Der Hellgrüne Schädel
+der magenta Schädel
+Der Orangere Schädel
+Der Rosaschädel
+Der Violette Schädel
+der Rote Schädel
+Der Weiße Schädel
+Der Gelbe Schädel
+die Vier schwarze Pfähle
+die Vier blaue Pfähle
+die Vier Braune Pfähle
+die Vier türkise Pfähle
+die Vier graue Pfähle
+die Vier grünen Pfähle
+die Vier hellblauen Pfähle
+die Vier hellgrauen Pfähle
+die Vier hellgrünen Pfähle
+die Vier Magenta Pfähle
+die Vier Orangenpfähle
+die Vier rosa Pfähle
+die Vier violette Pfähle
+die Vier roten Pfähle
+die Vier weiße Pfähle
+die Vier gelbe Pfähle
+das Schwarze rechte Untereck
+das Blaue rechte Untereck
+das Braune rechte Untereck
+das Türkische rechte Untereck
+das Graue rechte Untereck
+das Grüne rechte Untereck
+das Hellblaue rechte Untereck
+das Hellgraue rechte Untereck
+das Hellgrüne rechte Untereck
+das Magenta rechte Untereck
+die Orangen rechtes Untereck
+das Rosa rechte Untereck
+das Violette rechte Untereck
+das Rote rechte Untereck
+das Weiße rechte Untereck
+das Gelbe rechte Untereck
+das Schwarzes verbindet Untereck
+das Blaue linke Untereck
+das Braune linke Untereck
+das türkische linke Untereck
+das Graue linke Untereck
+das Grüne linke Untereck
+das Hellblaue linke Untereck
+das Hellgraue verbindet Untereck
+das Hellgrünes verbindet Untereck
+das Magenta verbindet Untereck
+die Orangen verbindet Untereck
+die Rosa verbindet Untereck
+das Violettes verbindet Untereck
+das Rotes verbindet Untereck
+das Weiße linke Untereck
+das Gelbe linke Untereck
+das Schwarze rechte Obereck
+das Blaue rechte Obereck
+das Braune rechte Obereck
+das Türkische rechte Obereck
+das Graue rechte Obereck
+das Grüne rechte Obereck
+das Hellblaue rechte Obereck
+das Hellgraue rechte Obereck
+das Hellgrüne rechte Obereck
+das Magenta rechte Obereck
+die Orangen rechtes Obereck
+das Rosa rechtes Obereck
+das Violette rechte Obereck
+das Rote rechte Obereck
+das Weiße rechte Obereck
+das Gelbe rechte Obereck
+das Schwarzes verbindet Obereck
+das Blaue verbindet Obereck
+das Braune verbindet Obereck
+das Türkise verbindet Obereck
+das Graue verbindet Obereck
+das Grüne verbindet Obereck
+das Hellblaue verbindet Obereck
+das Hellgraue verbindet Obereck
+das Hellgrüne verbindet Obereck
+das Magenta verbindet Obereck
+die Orangen verbindet Obereck
+die Rosa verbindet Obereck
+die Violettes verbindet Obereck
+das Rotes verbindet Obereck
+das Weiße verbindet Obereck
+das Gelbe verbindet Obereck
+das Schwarze Kreuz
+das Blaue Kreuz
+das Braune Kreuz
+das Türkise Kreuz
+das Graue Kreuz
+das Grüne Kreuz
+das Hellblaue Kreuz
+das Hellgraue Kreuz
+das Hellgrüne Kreuz
+das Magenta-Kreuz
+das Orangen Kreuz
+das Rosa-Kreuz
+das Violette Kreuz
+das Rote Kreuz
+das Weiße Kreuz
+das Gelbe Kreuz
+der Schwarze Bannerfuß
+der Blaue Bannerfuß
+der Braune Bannerfuß
+der Türkiser Bannerfuß
+der Graue Bannerfuß
+der Grüne Bannerfuß
+der Hellblaue Bannerfuß
+der Hellgraue Bannerfuß
+der Hellgrüne Bannerfuß
+der Magenta Bannerfuß
+der Orangere Bannerfuß
+die Rosa Bannerfuß
+der Violetter Bannerfuß
+der Rote Bannerfuß
+der Weiße Bannerfuß
+der Gelbe Bannerfuß
+der Schwarze Pfahl
+Der Blaue Pfahl
+Der Braune Pfahl
+Türkischer Pfahl
+Der Graue Pfahl
+der Grüne Pfahl
+der Hellblaue Pfahl
+der Hellgraue Pfahl
+der Hellgrüne Pfahl
+der Magenta-Pfahl
+Der Orangere Pfahl
+die Rosa Pfahl
+der Violetter Pfahl
+Der Rote Pfahl
+der Weiße Pfahl
+Der Gelbe Pfahl
+der Schwarze Schräglinksbalken
+der Blaue Schräglinksbalken
+der Braune Schräglinksbalken
+der Türkiser Schräglinksbalken
+der Graue Schräglinksbalken
+der Grüne Schräglinksbalken
+der Hellblaue Schräglinksbalken
+der Hellgraue Schräglinksbalken
+der Hellgrüne Schräglinksbalken
+der magentafarbene Schräglinksbalken
+der Orangere Schräglinksbalken
+der Rosa Schräglinksbalken
+der Violette Schräglinksbalken
+der Rote Schräglinksbalken
+der Weiße Schräglinksbalken
+der Gelbe Schräglinksbalken
+der Schwarze Schrägbalken
+der Blaue Schrägbalken
+der Braune Schrägbalken
+Türkischer Schrägbalken
+der Graue Schrägbalken
+der Grüne Schrägbalken
+der Hellblaue Schrägbalken
+der Hellgraue Schrägbalken
+der Hellgrüne Schrägbalken
+der magentafarbene Schrägbalken
+der Orangere Schrägbalken
+der Rosa Schrägbalken
+der Violette Schrägbalken
+der Rote Schrägbalken
+der Weiße Schrägbalken
+der Gelbe Schrägbalken
+die Schwarze rechte Flanke
+die Blaue rechte Flanke
+die Braune rechte Flanke
+die Türkische rechte Flanke
+die Graue rechte Flanke
+die Grüne rechte Flanke
+Hellblaue rechte Flanke
+die hellgraue rechte Flanke
+die hellgrüne rechte Flanke
+die Magenta rechte Flanke
+die Orange rechte Flanke
+die Rosa rechte Flanke
+die Violette rechte Flanke
+die Rote rechte Flanke
+die Weiße rechte Flanke
+die Gelbe rechte Flanke
+der Schwarze Balken
+Der Blaue Balken
+Der Braune Balken
+Türkischer Balken
+der Graue Balken
+der Grüne Balken
+Der Hellblaue Balken
+Der Hellgraue Balken
+Der Hellgrüne Balken
+der Magenta-Balken
+der orangene Balken
+die Rosa Balken
+Der Violette Balken
+der Rote Balken
+der Weiße Balken
+der Gelbe Balken
+die Schwarze linke Flanke
+die Blaue linke Flanke
+die Braune linke Flanke
+die türkise linke Flanke
+die Graue linke Flanke
+die Grüne linke Flanke
+die Hellblaue linke Flanke
+die Hellgraue linke Flanke
+die hellgrüne linke Flanke
+die Magenta linke Flanke
+die orangefarbene linke Flanke
+die Rosa linke Flanke
+die Violette linke Flanke
+die Rote linke Flanke
+die Weiße linke Flanke
+die Gelbe linke Flanke
+das Schwarze Bannerhaupt
+das Blaue Bannerhaupt
+das Braune Bannerhaupt
+das Türkise Bannerhaupt
+das Graue Bannerhaupt
+das Grüne Bannerhaupt
+das Hellblaue Bannerhaupt
+die Hellgraue Bannerhaupt
+das Hellgrüne Bannerhaupt
+das Magenta Bannerhaupt
+die Orangen Bannerhaupt
+die Rosa Bannerhaupt
+die Violettes Bannerhaupt
+das Rote Bannerhaupt
+das Weiße Bannerhaupt
+das Gelbe Bannerhaupt
+die Schwarze halbe Spitze
+die Blaue halbe Spitze
+die Braune halbe Spitze
+die Türkise halbe Spitze
+die Graue halbe Spitze
+die Grüne halbe Spitze
+die hellblaue halbe Spitze
+die Hellgraue Halbe Spitze
+die hellgrüne halbe Spitze
+die Magenta Halbe Spitze
+die Orange Halbe Spitze
+die Rosa halbe Spitze
+die Violette halbe Spitze
+die Rote Halbe Spitze
+die Weiße halbe Spitze
+die Gelbe Halbe Spitze
+die Schwarze gestürzte halbe Spitze
+die Blaue gestürzte halbe Spitze
+die Braune gestürzte halbe Spitze
+die türkise gestürzte halbe Spitze
+die Graue gestürzte halbe Spitze
+die Grüne gestürzte halbe Spitze
+die Hellblaue gestürzte halbe Spitze
+die Hellgraue gestürzte halbe Spitze
+die Hellgrüne gestürzte halbe Spitze
+die Magenta gestürzte halbe Spitze
+die Orange gestürzte halbe Spitze
+die Rosa gestürzte halbe Spitze
+die Violette gestürzte halbe Spitze
+die Rote gestürzte halbe Spitze
+die Weiße gestürzte halbe Spitze
+die Gelbe gestürzte halbe Spitze
+der Schwarzer gespickelter Bannerfuß
+der Blauer gespickelter Bannerfuß
+der Brauner gespickelter Bannerfuß
+der Türkiser gespickelter Bannerfuß
+der Grauer gespickelter Bannerfuß
+der Grüner gespickelter Bannerfuß
+der Hellblauer gespickelter Bannerfuß
+der Hellgrauer gespickelter Bannerfuß
+der Hellgrüner gespickelter Bannerfuß
+der Magenta gespickelter Bannerfuß
+der Oranger gespickelter Bannerfuß
+der Rosa gespickelter Bannerfuß
+der Violetter gespickelter Bannerfuß
+der Roter gespickelter Bannerfuß
+der Weißer gespickelter Bannerfuß
+der Gelber gespickelter Bannerfuß
+das Schwarze gespickelte Bannerhaupt
+das Blaue gespickelte Bannerhaupt
+das Braune gespickelte Bannerhaupt
+das türkises gespickelte Bannerhaupt
+das Graues gespickeltes Bannerhaupt
+das Grüne gespickelte Bannerhaupt
+das hellblaue gespickelte Bannerhaupt
+das Hellgraue gespickelte Bannerhaupt
+das hellgrüne gespickelte Bannerhaupt
+das Magenta gespickelte Bannerhaupt
+die Orangen gespickeltes Bannerhaupt
+das Rosa gespickelte Bannerhaupt
+das Violettes gespickeltes Bannerhaupt
+das Rote gespickelte Bannerhaupt
+das Weiße gespickelte Bannerhaupt
+das Gelbe gespickelte Bannerhaupt
+das Fass
+die Barriere
+der Basalt
+das Leuchtfeuer
+die Primäre Kraft
+die sekundäre Kraft
+the Du kannst nur nachts oder während eines Gewitters schlafen
+the Du kannst jetzt nicht schlafen, es sind Monster in der Nähe
+Das Dieses Bett ist blockiert
+das Dieses Bett ist belegt
+the Du kannst jetzt nicht schlafen, das Bett ist zu weit entfernt
+das Grundgestein
+das Bienennest
+der Bienenstock
+die Rote Bete
+die Glocke
+Das Große Tropfblatt
+der Große Tropfblattstiel
+der Birkenholzknopf
+die Birkenholztür
+der Birkenholzzaun
+das Birkenholzzauntor
+das Birkenholzhängeschild
+das Birkenlaub
+der Birkenstamm
+die Birkenholzbretter
+die Birkenholzdruckplatte
+Der Birkensetzling
+das Birkenholzschild
+die Birkenholzstufe
+die Birkenholztreppe
+die Birkenholzfalltür
+das Birkenholzwandhängeschild
+das Birkenholzwandschild
+das Birkenholz
+das Schwarze Banner
+das Schwarze Bett
+Die Schwarze Kerze
+der Kuchen mit schwarzer Kerze
+Der Schwarze Teppich
+Der Schwarze Beton
+der Schwarze Trockenbeton
+die Schwarze glasierte Keramik
+die Schwarze Shulker-Kiste
+Das Schwarze Glas
+Die Schwarze Glasscheibe
+Die Schwarze Keramik
+die Schwarze Wolle
+der Schwarzstein
+die Schwarzsteinstufe
+die Schwarzsteintreppe
+die Schwarzsteinmauer
+Der Schmelzofen
+das Blaue Banner
+das Blaue Bett
+die Blaue Kerze
+der Kuchen mit blauer Kerze
+Der Blaue Teppich
+Der Blaue Beton
+der Blaue Trockenbeton
+die Blaue glasierte Keramik
+das Blaueis
+die Blaue Orchidee
+die Blaue Schulker-Kiste
+das Blaue Glas
+Die Blaue Glasscheibe
+die Blaue Keramik
+die Blaue Wolle
+der Knochenblock
+das Bücherregal
+die Hirnkoralle
+der Hirnkorallenblock
+die Hirnkorallenfächer
+der Hirnkorallenwandfächer
+der Braustand
+die Ziegelstufe
+die Ziegeltreppe
+die Ziegelsteinmauer
+die Ziegelsteine
+das Braune Banner
+das Braune Bett
+die Braune Kerze
+der Kuchen mit brauner Kerze
+Der Braune Teppich
+Der Brauner Beton
+der Braune Trockenbeton
+die Braune glasierte Keramik
+Der Braune Pilz
+Der Braune Pilzblock
+die Braune Shulker-Kiste
+das Braune Glas
+Die Braune Glasscheibe
+die Braune Keramik
+die Braune Wolle
+die Blasensäule
+die Blasenkoralle
+der Blasenkorallenblock
+die Blasenkorallenfächer
+die Blasenkorallenwandfächer
+der Amethystknospenblock
+der Kaktus
+der Kuchen
+der Kalzit
+das Lagerfeuer
+die Kerze
+der Kuchen mit Kerze
+die Karotten
+der Kartentisch
+der geschnitzte Kürbis
+der Kessel
+die Höhlenluft
+die Höhlenranken
+die Höhlenrankenpflanze
+die Kette
+Der Ketten-Befehlsblock
+der Kirschholzknopf
+die Kirschholztür
+der Kirschholzzaun
+das Kirschholzzauntor
+das Kirschholzhängeschild
+der Kirschlaub
+der Kirschstamm
+die Kirschholzbretter
+die Kirschholzdruckplatte
+Der Kirschsetzling
+das Kirschholzschild
+die Kirschholzstufe
+die Kirschholztreppe
+die Kirschholzfalltür
+die Kirschholzwandhängeschild
+das Kirschholzwandschild
+das Kirschholz
+die Truhe
+der Angeschlagene Botschafter
+das Gearbeitete Bücherregal
+der Gemeißelter Tiefenschiefer
+der Gemeißelte Netherziegel
+der Gemeißelter polierte Schwarzstein
+der Gemeißelter Quarzblock
+der Gemeißelter Roter Sandstein
+der Gemeißelter Sandstein
+der Gemeißelte Steinziegel
+die Chorusblüte
+die Choruspflanze
+die Tonne
+Der Kohleblock
+die Steinkohle
+die Große Erde
+der Bruchtiefenschiefer
+die Bruchtiefenschieferstufe
+die Bruchtiefenschiefertreppe
+die Bruchtiefenschiefermauer
+der Bruchstein
+die Bruchsteinstufe
+die Bruchsteintreppe
+die Bruchsteinmauer
+das Spinnnetz
+der Kakao
+der Befehlsblock
+der Redstone-Komparator
+der Komposter
+der Aquisator
+Der Kupferblock
+das Kupfererz
+die Kornblume
+der Rissige Tiefenschieferziegel
+die Rissigen Tiefenschieferfliesen
+der Rissige Netherziegel
+die rissige polierte Schwarzsteinziegel
+die Rissigen Steinziegel
+die Werkbank
+der Creeperkopf
+der Creeper-Wandkopf
+der Karmesinknopf
+die Karmesintür
+der Karmesinzaun
+der Karmesinzauntor
+der Karmesinpilz
+das Karmesinhängeschild
+der Karmesinhyphen
+die Karmesin-Nezel
+die Karmesinbretter
+die Karmesindruckplatte
+die Karmesinwurzeln
+der Karmesinschild
+die Karmesinstufe
+die Karmesintreppe
+der Karmesinstiel
+die Karmesinfalltür
+das Karmesinwandhängeschild
+das Karmesinwandschild
+der Weinender Obsidian
+Der Geschnittene Kupferblock
+die Geschnittene Kupferstufe
+die Geschnittene Kupfertreppe
+der Geschnittene Rote Sandstein
+die Geschnittene Rote Sandsteinstufe
+Der Geschnittene Sandstein
+die Geschnittene Sandsteinstufe
+das türkische Banner
+das Türkise Bett
+die Türkise Kerze
+der Kuchen mit türkiser Kerze
+Türkischer Teppich
+der Türkiser Beton
+Türkischer Trockenbeton
+die türkise glasierte Keramik
+die Türkische Shulker-Kiste
+das Türkise Glas
+die Türkise Glasscheibe
+die Türkische Keramik
+die Türkise Wolle
+der Beschädigter Amboss
+der Löwenzahn
+der Schwarzeichenholzknopf
+die Schwarzeichenholztür
+der Schwarzeichenholzzaun
+das Schwarzeichenholzzauntor
+das Schwarzeichenholzhängeschild
+die Schwarzeichenlaube
+der Schwarzeichenstamm
+die Schwarzeichenholzbretter
+die Schwarzeichenholzdruckplatte
+Der Schwarzeichensetzling
+das Schwarzeichenholzschild
+die Schwarzeichenholzstufe
+die Schwarzeichenholztreppe
+die Schwarzeichenholzfalltür
+das Schwarzeichenholzwandhängeschild
+das Schwarzeichenholzwandschild
+Das Schwarzeichenholz
+der Dunkle Prisma
+die Dunkle Prismainstufe
+die Dunkle Prismaintreppe
+der Tageslichtsensor
+die Abgestorbene Hirnkoralle
+der abgestorbene Hirnkorallenblock
+die Abgestorbener Hirnkorallenfächer
+die Abgestorbener Hirnkorallenwandfächer
+die Abgestorbene Blasenkoralle
+Der abgestorbene Blasenkorallenblock
+die Abgestorbener Blasenkorallenfächer
+die Abgestorbener Blasenkorallenwandfächer
+Der Tote Busch
+die Abgestorbene Feuerkoralle
+der abgestorbene Feuerkorallenblock
+die Abgestorbener Feuerkorallenfächer
+die Abgestorbener Feuerkorallenwandfächer
+die Abgestorbene Geweihkoralle
+der abgestorbene Geweihkorallenblock
+die Abgestorbener Geweihkorallenfächer
+die Abgestorbener Geweihkorallenwandfächer
+die Abgestorbene Orgelkoralle
+der Abgestorbene Orgelkorallenblock
+die Abgestorbener Orgelkorallenfächer
+die Abgestorbener Orgelkorallenwandfächer
+der Verzierte Krug
+der Tiefenschiefer
+die Tiefenschieferziegelstufe
+die Tiefenschieferziegeltreppe
+die Tiefenschiefermauer
+der Tiefenschieferziegel
+die Tiefenschiefer-Steinkohle
+das Tiefenschiefer-Kupfererz
+der Tiefenschiefer-Diamanterz
+die Tiefenschiefer-Smaragderz
+das Tiefenschiefer-Golderz
+das Tiefenschiefer-Eisenerz
+der Tiefenschiefer-Lapislazulierz
+das Tiefenschiefer-Redstone-Erz
+die Tiefenschieferfliesenstufe
+die Tiefenschieferfliesentreppe
+die Tiefenschieferfliesenmauer
+die Tiefenschieferfliesen
+die Sensorschiene
+der Diamantblock
+die Diamanterz
+der Diorit
+die Dioritstufe
+die Diorittreppe
+die Dioritmauer
+die Erde
+der Trampelpfad
+der Werfer
+die Drachenei
+der Drachenkopf
+der Drachen-Wandkopf
+der Getrocknete Seetangblock
+Der Tropfsteinblock
+der Spender
+der Smaragdblock
+die Smaragderz
+der Zaubertisch
+das Endtransitportal
+das Endportal
+der Endportalrahmen
+der Endstab
+der Endstein
+die Endsteinziegelstufe
+die Endsteinziegeltreppe
+die Endsteinziegelmauer
+die Endsteinziegel
+die Endertruhe
+Der angelaufene Kupferblock
+Angelaufener geschnittener Kupferblock
+die angelaufene geschnittene Kupferstufe
+die angelaufene geschnittene Kupfertreppe
+der Ackerboden
+der Farn
+das Feuer
+die Feuerkoralle
+Der Feuerkorallenblock
+die Feuerkorallenfächer
+die Feuerkorallenwandfächer
+der Bognertisch
+Der Blumentopf
+die Blühende Azalee
+das Blühende Azaleenlaub
+der Froschlach
+das Brüchige Eis
+der Ofen
+der Golddurchzogene Schwarzstein
+das Glas
+die Glasscheibe
+die Leuchtflechte
+der Leuchtstein
+der Goldblock
+das Golderz
+der Granit
+die Granitstufe
+die Granittreppe
+die Granitmauer
+das Gras
+der Grasblock
+die Kies
+das Graue Banner
+das Graue Bett
+die Graue Kerze
+der Kuchen mit grauer Kerze
+Der Graue Teppich
+Der Graue Beton
+der Graue Trockenbeton
+die Graue glasierte Keramik
+die GrauenShulker-Kiste
+das Graue Glas
+die Graue Glasscheibe
+die Graue Keramik
+die Graue Wolle
+das Grüne Banner
+das Grüne Bett
+die Grüne Kerze
+der Kuchen mit grüner Kerze
+Der Grüne Teppich
+Der Grüne Beton
+der Grüne Trockenbeton
+die Grüne glasierte Keramik
+die Grüne Shulker-Kiste
+das Grüne Glas
+Die Grüne Glasscheibe
+die Grüne Keramik
+die Grüne Wolle
+der Schleifstein
+die hängenden Wurzeln
+die Strohbälle
+die Grobwägeplatte
+der Honigblock
+der Honigwabenblock
+der Trichter
+die Geweihkoralle
+der Geweihkorallenblock
+die Geweihkorallenfächer
+die Geweihkorallenwandfächer
+das Eis
+der Befallene gemeißelte Steinziegel
+der Befallene Bruchstein
+der Befallene rissige Steinziegel
+der Befallene Tiefenschiefer
+der befallene bemooste Steinziegel
+Der Befallene Stein
+die Befallenen Steinziegel
+das Eisengitter
+der Eisenblock
+die Eisentür
+die Eisenerz
+die Eisenfalltür
+die Kürbislaterne
+Der Verbundblock
+der Plattenspieler
+der Tropenholzknopf
+die Tropenholztür
+der Tropenholzzaun
+das Tropenholzzauntor
+das Tropenholzhängeschild
+die Tropenbaumlaub
+der Tropenbaumstamm
+die Tropenholzbretter
+die Tropenholzdruckplatte
+der Tropenbaumsetzling
+das Tropenholzschild
+die Tropenholzstufe
+die Tropenholztreppe
+die Tropenholzfalltür
+das Tropenholzwandhängeschild
+das Tropenholzwandschild
+das Tropenholz
+der Seetang
+die Seetangstängel
+der Leiter
+die Laterne
+der Lapislazuliblock
+der Lapislazulierz
+die Große Amethystknospe
+Der Große Farn
+die Lava
+der Lavakessel
+das Lesepult
+der Hebel
+der Lichtblock
+das Hellblaue Banner
+das Hellblaue Bett
+die Hellblaue Kerze
+der Kuchen mit hellblauer Kerze
+Der Hellblaue Teppich
+der Hellblaue Beton
+der Hellblaue Trockenbeton
+die Hellblaue glasierte Keramik
+die Hellblaue Shulker-Kiste
+das Hellblaue Glas
+Die Hellblaue Glasscheibe
+die Hellblaue Keramik
+die Hellblaue Wolle
+das Hellgraue Banner
+das Hellgraue Bett
+die Hellgraue Kerze
+der Kuchen mit hellgrauer Kerze
+Der Hellgraue Teppich
+Der Hellgraue Beton
+der Hellgraue Trockenbeton
+die Hellgraue glasierte Keramik
+die Hellgraue Shulker-Kiste
+das Hellgraue Glas
+Die Hellgraue Glasscheibe
+die Hellgraue Keramik
+die Hellgraue Wolle
+die Feinwägeplatte
+der Blitzableiter
+der Flieder
+das Maiglöckchen
+Das Seerosenblatt
+das hellgrüne Banner
+das Hellgrüne Bett
+die Hellgrüne Kerze
+der Kuchen mit hellgrüner Kerze
+Der Hellgrüne Teppich
+Hellgrüner Beton
+Hellgrüner Trockenbeton
+die Hellgrüne glasierte Keramik
+die Hellgrüne Shulker-Kiste
+das Hellgrüne Glas
+die Hellgrüne Glasscheibe
+die Hellgrüne Keramik
+die Hellgrüne Wolle
+der Leitstein
+der Webstuhl
+das Magenta-Banner
+das Magenta-Bett
+die Magenta-Kerze
+der Kuchen mit magentafarbener Kerze
+der Magenta-Teppich
+der Magenta-Beton
+der magentafarbene Trockenbeton
+die Magenta glasierte Keramik
+die Magenta Shulker-Kiste
+das Magenta-Glas
+die Magenta Glasscheibe
+die Magenta-Keramik
+die Magenta-Wolle
+der Magmablock
+der Mangrovenholzknopf
+die Mangrovenholztür
+der Mangrovenholzzaun
+das Mangrovenholzzauntor
+das Mangrovenholzhängeschild
+das Mangrovenlaub
+der Mangrovenstamm
+die Mangrovenholzbretter
+die Mangrovenholzdruckplatte
+der Mangroven-Keimling
+die Mangrovenwurzeln
+das Mangrovenholzschild
+die Mangrovenholzstufe
+die Mangrovenholztreppe
+die Mangrovenholzfalltür
+das Mangrovenholzwandhängeschild
+das Mangrovenholzwandschild
+das Mangrovenholz
+die Mittlere Amethystknospe
+die Melone
+die Melonenpflanze
+der Moosblock
+der Moosteppich
+der Bemooster Bruchstein
+die Bemooste Bruchsteinstufe
+die Bemooste Bruchsteintreppe
+die bemooste Bruchsteinmauer
+die Bemooste Steinziegelstufe
+die Bemooste Steinziegeltreppe
+die Bemooste Steinziegelmauer
+die Bemooste Steinziegel
+Der Bewegter Block
+der Schlamm
+die Schlammziegelstufe
+die Schlammziegeltreppe
+die Schlammziegelmauer
+das Schlammziegel
+die schlammigen Mangrovenwurzeln
+der Pilzstiel
+die Myzel
+der Netherziegelzaun
+die Netherziegelstufe
+die Netherziegeltreppe
+die Netherziegelmauer
+der Netherziegel
+die Nethergolderz
+das Netherportal
+die Netherquarzerz
+die Nethersprossen
+die Netherwarzen
+der Netherwarzenblock
+der Netheritblock
+das Netherrack
+der Notenblock
+der Eichenholzknopf
+die Eichenholztür
+der Eichenholzzaun
+das Eichenholzzauntor
+das Eichenholzhängeschild
+das Eichenlaub
+der Eichenstamm
+die Eichenholzbretter
+die Eichenholzdruckplatte
+Der Eichensetzling
+das Eichenholzschild
+die Eichenholzstufe
+die Eichenholztreppe
+die Eichenholzfalltür
+das Eichenholzwandhängeschild
+das Eichenholzwandschild
+das Eichenholz
+der Beobachter
+der Obsidian
+das Ockernes Froschlicht
+das Unheilvolle Banner
+das Orangenbanner
+die Orangen Bett
+die orangefarbene Kerze
+der Kuchen mit oranger Kerze
+Der Orange Teppich
+der Oranger Beton
+der Orange Trockenbeton
+die orange glasierte Keramik
+die Orange Shulker-Kiste
+das Orangenglas
+die Orange Glasscheibe
+die Orange Keramik
+die orangefarbene Tulpe
+die orange Wolle
+die Margarete
+Der oxidierte Kupferblock
+Oxidierter geschnittener Kupferblock
+die Oxidierte geschnittene Kupferstufe
+die Oxidierte geschnittene Kupfertreppe
+die Packis
+der Fester Schlamm
+das Perlmutternes Froschlicht
+die Pfingstrose
+die Versteinerte Eichenholzstufe
+der Piglinkopf
+der Piglin-Wandkopf
+das Rosabanner
+die Rosa Bett
+die Rosa Kerze
+der Kuchen mit rosa Kerze
+Der Rosa Teppich
+die Rosa Beton
+der Rosa Trockenbeton
+die Rosa glasierte Keramik
+die Rosa Blütenblätter
+die Rosa Shulker-Kiste
+das Rosaglas
+die Rosa Glasscheibe
+die Rosa-Keramik
+die Rosa Tulpe
+die Rosa Wolle
+der Kolben
+Der Kolbenkopf
+Der Spielerkopf
+der Kopf von %s
+der Spieler-Wandkopf
+das Podsol
+der Spitzer Tropfstein
+der Polierter Andesit
+die Polierte Andesitstufe
+die Polierte Andesittreppe
+der Polierter Basalt
+der Polierter Schwarzstein
+die Polierte Schwarzsteinziegelstufe
+die Polierte Schwarzsteinziegeltreppe
+die Polierte Schwarzsteinziegelmauer
+der Polierte Schwarzsteinziegel
+der Polierter Schwarzsteinknopf
+die Polierte Schwarzsteindruckplatte
+die Polierte Schwarzsteinstufe
+die Polierte Schwarzsteintreppe
+die Polierte Schwarzsteinmauer
+der Polierter Tiefenschiefer
+die Polierte Tiefenschieferstufe
+die Polierte Tiefenschiefertreppe
+die Polierte Tiefenschiefermauer
+der Polierter Diorit
+die Polierte Dioritstufe
+die Polierte Diorittreppe
+der Polierter Granit
+die Polierte Granitstufe
+die Polierte Granittreppe
+der Möhn
+die Kartoffeln
+der Eintopfter Akaziensetzling
+der Eintopfter Zierlauch
+die eingetopfte Azalee
+das eingetopfte Porzellansternchen
+der eingetopfte Bambus
+der eingetopfte Birkensetzling
+die Eingetopfte blaue Orchidee
+Der Eintopfter Brauner Pilz
+der eingetopfte Kaktus
+der eingetopfte Kirschsetzling
+die eingetopfte Kornblume
+der Eintopfter Karmesinpilz
+die eingetopften Karmesinwurzeln
+der Eintopfter Löwenzahn
+der Eintopfter Schwarzeichensetzling
+der Eintopfter toter Busch
+der Eintopfter Farn
+die eingetopfte blühende Azalee
+der Eintopfter Tropenbaumsetzling
+das eingetopfte Maiglöckchen
+der Eingetopfter Mangroven-Keimling
+der Eintopfter Eichensetzling
+die eingetopfte orangefarbene Tulpe
+die eingetopfte Margerite
+die eingetopfte rosa Tulpe
+Der Eingetopfte Mohn
+der Eintopfter roter Pilz
+die eingetopfte rote Tulpe
+der Eintopfter Fichtensetzling
+die eingetopfte Fackellilie
+der Eintopfter Wirrpilz
+die eingetopften Wirrwurzeln
+die eingetopfte weiße Tulpe
+die Eingetopfte Wither-Rose
+der Pulverschnee
+Der Pulverschneekessel
+die Antriebsschiene
+der Prisma
+die Prismarinziegelstufe
+die Prismarinziegeltreppe
+der Prisminziegel
+die Prisminstufe
+die Prismarintreppe
+die Prismarinmauer
+der Kürbis
+die Kürbispflanze
+das Violettes-Banner
+das Violette Bett
+die Violette Kerze
+der Kuchen mit violetter Kerze
+Der Violette Teppich
+der Violetter Beton
+der Violetter Trockenbeton
+die Violette glasierte Keramik
+die Violette Shulker-Kiste
+das Violette Glas
+die Violette Glasscheibe
+die Violette Keramik
+die Violette Wolle
+der Purpurblock
+die Purpursäule
+die Purpurstufe
+die Purpurtreppe
+der Quarzblock
+die Quarzziegel
+die Quarzsäule
+die Quarzstufe
+die Quarztreppe
+die Schiene
+Der Rohkupferblock
+der Rohgoldblock
+Der Roheisenblock
+das Rote Banner
+das Rote Bett
+die Rote Kerze
+der Kuchen mit roter Kerze
+Der Rote Teppich
+Der Rote Beton
+Der Rote Trockenbeton
+die Rote glasierte Keramik
+Der Rote Pilz
+Der Rote Pilzblock
+die Rote Netherziegelstufe
+die Rote Netherziegeltreppe
+die Rote Netherziegelmauer
+der Rote Netherziegel
+Der Rote Sand
+Der Rote Sandstein
+die Rote Sandsteinstufe
+die Rote Sandsteintreppe
+die Rote Sandsteinmauer
+die Rote Shulker-Kiste
+das Rote Glas
+die Rote Glasscheibe
+die Rote Keramik
+die Rote Tulpe
+die Rote Wolle
+der Redstone-Block
+die Redstone-Lampe
+das Redstone-Erz
+die Redstone-Fackel
+die Redstone-Wandfackel
+die Redstone-Leitung
+der Verstärkte Tiefenschiefer
+der Redstone-Verstärker
+den Wiederhol-Befehlsblock
+der Seelenanker
+die Wurzelerde
+der Rosenstrauch
+der Sand
+der Sandstein
+die Sandsteinstufe
+die Sandsteintreppe
+die Sandsteinmauer
+das Gerüst
+der Sculk
+der Sculk-Katalysator
+der Sculk-Sensor
+der Sculk-Kreischer
+der Sculk-Ader
+die Seelaterne
+die Meeresgurke
+das Seegras
+der Wiedereinstiegspunkt gesetzt
+das Pilzlicht
+die Shulker-Kiste
+der Skelettschädel
+der Skelett-Wandschädel
+der Schleimblock
+die Kleine Amethystknospe
+Das Kleine Tropfblatt
+der Schmiedetisch
+der Räucherofen
+Der Glatter Basalt
+der Glatter Quarzblock
+die Glatte Quarzstufe
+die Glatte Quarztreppe
+der Glatter Roter Sandstein
+die Glatte rote Sandsteinstufe
+die Glatte rote Sandsteintreppe
+Der Glatter Sandstein
+Glatte Sandsteinstufe
+die Glatte Sandsteintreppe
+Der Glatter Stein
+Glatte Steinstufe
+der Schnee
+der Schneeblock
+das Seelenlagerfeuer
+das Seelenfeuer
+die Seelenlaterne
+Der Seelensand
+die Seelenerde
+der Seelenfackel
+der Seelenwandfackel
+the Du hast kein Bett und keinen aufgeladenen Seelenanker, oder dein Wiedereinstiegspunkt wurde blockiert
+der Spawner
+das Benutze Spawn-Ei:
+das Legt Kreaturentyp Fest
+die Schwamm
+die Sporenblüte
+der Fichtenholzknopf
+die Fichtenholztür
+der Fichtenholzzaun
+das Fichtenholzzauntor
+das Fichtenholzhängeschild
+die Fichtennadeln
+der Fichtenstamm
+die Fichtenholzbretter
+die Fichtenholzdruckplatte
+der Fichtensetzling
+das Fichtenholzschild
+die Fichtenholzstufe
+die Fichtenholzstreppe
+die Fichtenholzfalltür
+das Fichtenholzwandhängeschild
+das Fichtenholzwandschild
+das Fichtenholz
+der Klebrige Kolben
+der Stein
+die Steinziegelstufe
+die Steinziegeltreppe
+die Steinziegelmauer
+der Steinziegel
+der Steinknopf
+die Steindruckplatte
+die Steinstufe
+die Steintreppe
+die Steinsäge
+der Entrindete Akazienstamm
+das Entrindetes Akazienholz
+der Geschälter Bambusblock
+der Entrindeter Birkenstamm
+die Entrindeten Birkenholz
+der Entrindete Kirschstamm
+das entrindete Kirschholz
+die Geschälte Karmesinhyphen
+der Geschälter Karmesinstiel
+der Entrindeteter Schwarzeichenstamm
+das Entrindetes Schwarzeichenholz
+der Entrindeter Tropenbaumstamm
+das Entrindetes Tropenholz
+der Entrindeteter Mangrovenstamm
+das entrindete Mangrovenholz
+der Entrindete Eichenstamm
+das Entrindete Eichenholz
+der Entrindete Fichtenstamm
+das Entrindetes Fichtenholz
+die Geschälte Wirrhyphen
+der Geschälter Wirrstiel
+der Konstruktionsblock
+die Konstruktionsleere
+das Zuckerrohr
+die Sonnenblumen
+der Seltsamer Sand
+der Süßbierstrauch
+das Hohe Gras
+das Hohe Seegras
+der Zielblock
+die Keramik
+das Getönte Glas
+das TNT
+die Fackel
+die Fackellie
+die Fackellilienpflanze
+die Redstone-Truhe
+der Stolperdraht
+der Haken
+die Orgelkoralle
+der Orgelkorallenblock
+die Orgelkorallenfächer
+der Orgelkorallenwandfächer
+der Tuffstein
+die Schildkrötenei
+die Zwirbelranken
+die Zwirbelrankenpflanze
+das Junggrüne Froschlicht
+die Ranken
+die Leerluft
+der Wandfackel
+der Wirrknopf
+die Wirrtür
+der Wirrzaun
+das Wirrzauntor
+der Wirrpilz
+das Wirrhängeschild
+der Wirrhyphen
+die Wirr-Nezel
+der Wirrbretter
+die Wirrdruckplatte
+die Wirrwurzeln
+das Wirrschild
+die Wirrstufe
+die Wirrtreppe
+der Wirrstiel
+die Wirrfalltür
+das Wirrwandhängeschild
+das Wirrwandschild
+der Wirrwarzenblock
+das Wasser
+der Wasserkessel
+Der Gewachste Kupferblock
+Der gewachster geschnittene Kupferblock
+die gewachste geschnittene Kupferstufe
+die gewachste geschnittene Kupfertreppe
+der gewachster angelaufener Kupferblock
+der gewachster angelaufener geschnittener Kupferblock
+die gewachste angelaufene geschnittene Kupferstufe
+die gewachste angelaufene geschnittene Kupfertreppe
+der gewachster oxidierter Kupferblock
+Der gewachster oxidierter geschnittener Kupferblock
+die gewachste oxidierte geschnittene Kupferstufe
+die gewachste oxidierte geschnittene Kupfertreppe
+Der Gewachster verwitterter Kupferblock
+Der gewachster verwitterter geschnittener Kupferblock
+die gewachste verwitterte geschnittene Kupferstufe
+die gewachste verwitterte geschnittene Kupfertreppe
+Der Verwitterte Kupferblock
+Der Verwitterter geschnittene Kupferblock
+die verwitterte geschnittene Kupferstufe
+die verwitterte geschnittene Kupfertreppe
+die Trauerranken
+die Trauerrankenpflanze
+der Nasser Schwamm
+die Weizenpflanze
+das Weiße Banner
+Das Weiße Bett
+Die Weiße Kerze
+der Kuchen mit weißer Kerze
+Der Weiße Teppich
+Der Weiße Beton
+der Weiße Trockenbeton
+die Weiße glasierte Keramik
+die Weiße Shulker-Kiste
+Das Weiße Glas
+Die Weiße Glasscheibe
+die Weiße Keramik
+Die Weiße Tulpe
+die Weiße Wolle
+die Wither-Rose
+der Witherskelettschädel
+der Witherskelett-Wandschädel
+das Gelbe Banner
+das Gelbe Bett
+die Gelbe Kerze
+der Kuchen mit gelber Kerze
+Der Gelbe Teppich
+Der Gelbe Beton
+der Gelbe Trockenbeton
+die Gelbe glasierte Keramik
+die Gelbe Shulker-Kiste
+Das Gelbe Glas
+Die Gelbe Glasscheibe
+die Gelbe Keramik
+die Gelbe Wolle
+der Zombiekopf
+der Zombie-Wandkopf
+die von %1$s
+den Buchtitel eingeben:
+das Endgültig signieren
+der Hinweis! Wenn du das Buch signierst, kann es nicht mehr bearbeitet werden.
+das Original
+die Kopie des Originals
+die Kopie einer Kopie
+die Zerrissen
+das * Ungültiges Buchetikett *
+die Seite %1$s von %2$s
+das Signieren
+die Die maximale Bauhöhe beträgt %s
+die Chatnachricht kann nicht gesendet werden
+die %s, %s, %s
+die Klicke zum Teleportieren
+den Link kopieren
+das Klicken, um in die Zwischenablage zu kopieren
+Diese Chatnachricht wurde vom Server gelöscht.
+the Der Chat wurde aufgrund einer Kette deaktiviert. Bitte versuchen, dich erneut zu verbinden.
+the Der Chat wurde aufgrund eines abgelaufenen öffentlichen Profilschlüssels deaktiviert. Bitte versuchen, dich erneut zu verbinden.
+der Chat ist durch Launcher‐Einstellung deaktiviert. Nachricht kann nicht gesendet werden.
+the Der Chat wurde aufgrund eines fehlenden öffentlichen Profilschlüssels deaktiviert. Bitte versuchen, dich erneut zu verbinden.
+Der Chat ist in den Clienteinstellungen deaktiviert
+der Chat ist durch Kontoeinstellungen nicht erlaubt. Drücke ‚%s‘ für weitere Informationen erneut.
+der Chat ist durch Kontoeinstellungen nicht erlaubt. Nachrichten können nicht gesendet oder angezeigt werden.
+der Chat
+das Gefiltert vom Server.
+Der Server hat deine Nachricht für einige Spieler versteckt.
+the Bist du sicher, dass du die folgende Webseite öffnen möchtest?
+the Möchtest du diesen Link öffnen oder in die Zwischenablage kopieren?
+den Im Browser öffnen
+the Öffnet keine Links von Personen, denen du nicht vertraust!
+die [+%s ausstehenden Zeilen]
+die [%s]
+Die Nachrichtwurde vom Server verändert. Original:
+die Nicht überprüfte Nachricht. Kann nicht gemeldet werden.
+die Servernachricht. Kann nicht gemeldet werden.
+die Servernachricht.
+die [%s: %s]
+der %s hat die Aufgabe %s erledigt
+der %s hat das Ziel %s erreicht
+der %s hat den Fortschritt %s erzielt
+die [%s] %s
+die * %s %s
+das Team benachrichtigen
+das -> %s <%s> %s
+das %s <%s> %s
+die <%s> %s
+das %s sagt %s
+die zu sendende Nachricht: %s
+das Chatfenster
+die Nachricht eingeben und zum Senden die Eingabetaste drücken
+die Bei %s Spielern wurden keine Gegenstände gefunden
+the Bei %s wurden keine Gegenstände gefunden
+der Schwarz
+das Blau
+der Braune
+die Türkischen
+das Grau
+das Grüne
+das Hellblau
+das Hellgrau
+das Hellgrün
+das Magenta
+Die Orange
+die Rose
+die Violette
+die Fäulnis
+die Weiße
+das Gelbe
+die <--[HIER]
+die %s an Position %s: %s
+der Befehl fehlerhaft: %s
+das Leerzeichen vor neuem Argument erwartet
+während der Ausführung dieses Befehls ist ein Fehler aufgetreten
+das Ungültiges Befehlsargument
+der Unbekannter oder unvollständiger Befehl, siehe unten für Fehler
+the Es wurde kein Fortschritt mit dem Namen ‚%s‘ gefunden
+das Kriterium ‚%2$s‘ gehört nicht zum Fortschritt %1$s
+das Kriterium ‚%s‘ des Fortschritts %s konnte %s Spielern nicht gewährt werden, da es bereits erfüllt ist
+das Kriterium ‚%s‘ des Fortschritts %s wurde %s Spielern gewährt
+das Kriterium ‚%s‘ des Fortschritts %s konnte %s nicht gewährt werden, da es bereits erfüllt ist
+das Kriterium ‚%s‘ des Fortschritts %s wurde %s gewährt
+die %s Fortschritte konnten %s Spielern nicht gewährt werden, da sie bereits erreicht wurden
+die %s Fortschritte wurden %s Spielern gewährt
+die %s Fortschritte konnten %s bereits nicht gewährt werden, da sie erreicht wurden
+die %s Fortschritte wurden %s gewährt
+der Fortschritt %s konnte %s Spielern nicht gewährt werden, da er bereits erreicht wurde
+der Fortschritt %s wurde %s Spielern gewährt
+der Fortschritt %s konnte %s nicht gewährt werden, da er bereits erreicht wurde
+der Fortschritt %s wurde %s gewährt
+das Kriterium ‚%s‘ des Fortschritts %s konnte %s Spielern nicht entzogen werden, da es nicht erfüllt war
+das Kriterium ‚%s‘ des Fortschritts %s wurde %s Spielern entzogen
+das Kriterium ‚%s‘ des Fortschritts %s konnte %s nicht entzogen werden, da es nicht erfüllt war
+das Kriterium ‚%s‘ des Fortschritts %s wurde %s entzogen
+die %s Fortschritte konnten %s Spielern nicht entzogen werden, da sie nicht erreicht wurden
+die %s Fortschritte wurden %s Spielern entzogen
+die %s Fortschritte konnten %s nicht entzogen werden, da sie nicht erreicht wurden
+die %s Fortschritte wurden %s entzogen
+der Fortschritt %s konnte %s Spielern nicht entzogen werden, da er nicht erreicht wurde
+der Fortschritt %s wurde %s Spielern entzogen
+der Fortschritt %s konnte %s nicht entzogen werden, da er nicht erreicht wurde
+der Fortschritt %s wurde %s entzogen
+der Grundwert des Attributes %s des Objekts %s ist %s
+der Grundwert des Attributes %s des Objekts %s wurde auf %s gesetzt
+das %s ist kein gültiges Objekt für diesen Befehl
+der Modifikator %s ist bei Attribut %s des Objekts %s bereits vorhanden
+das Objekt %s hat kein Attribut %s
+das Attribut %s des Objekts %s hat keinen Modifikator %s
+der Modifikator %s wurde zum Attribut %s des Objekts %s hinzugefügt
+der Modifikator %s wurde von Attribut %s des Objekts %s entfernt
+der Wert des Modifikators %s des Attributes %s des Objekts %s ist %s
+der Wert des Attributes %s des Objekts %s ist %s
+das Nichts hat sich geändert, der Spieler ist bereits gesperrt
+%s wurde gesperrt: %s
+das Nichts hat sich geändert, die IP-Adresse ist bereits gesperrt
+die Diese Sperre betrifft %s Spieler: %s
+die Ungültige IP-Adresse oder unbekannter Spieler
+die IP-Adresse %s wurde gesperrt: %s
+das %s wurde von %s gesperrt: %s
+das Es gibt %s Sperre(n):
+das Es gibt keine Sperrungen
+die Eine Bossleiste mit der ID ‚%s‘ existiert bereits
+die Benutzerdefinierte Bossleiste %s wurde erstellt
+Der Maximalwert der benutzerdefinierten Bossleiste %s beträgt %s
+die Benutzerdefinierte Bossleiste %s hat aktuell keine Spieler online
+die Benutzerdefinierte Bossleiste %s hat aktuell %s Spieler online: %s
+the Der aktuelle Wert der benutzerdefinierten Bossleiste %s beträgt %s
+die Benutzerdefinierte Bossleiste %s ist aktuell unsichtbar
+die Benutzerdefinierte Bossleiste %s ist aktuell sichtbar
+Die Es sind keine benutzerdefinierten Bossleisten aktiv
+die Es sind %s benutzerdefinierte Bossleisten aktiv: %s
+die Benutzerdefinierte Bossleiste %s wurde entfernt
+die Farbe der benutzerdefinierten Bossleiste %s wurde geändert
+the Nichts hat sich geändert, die Bossleiste hat bereits diese Farbe
+der Maximalwert der benutzerdefinierten Bossleiste %s wurde auf %s geändert
+the Nichts hat sich geändert, die Bossleiste hat bereits dieses Maximum
+die Benutzerdefinierte Bossleiste %s wurde umbenannt
+the Nichts hat sich geändert, die Bossleiste hat bereits diesen Namen
+die Benutzerdefinierte Bossleiste %s hat keine Spieler mehr
+die Benutzerdefinierte Bossleiste %s hat aktuell %s Spieler: %s
+der Nichts-Hutsich geändert, diese Spieler sind bereits der Bossleiste zugeordnet, es wurde niemand hinzugefügt oder entfernt
+die Einteilung der benutzerdefinierten Bossleiste %s wurde geändert
+the Nichts hat sich geändert, die Bossleiste hat bereits this Einteilung
+der Wert der benutzerdefinierten Bossleiste %s wurde auf %s geändert
+the Nichts hat sich geändert, die Bossleiste hat bereits diesen Wert
+the Nichts hat sich geändert, die Bossleiste ist bereits unsichtbar
+the Nichts hat sich geändert, die Bossleiste ist bereits sichtbar
+die Benutzerdefinierte Bossleiste %s ist nun unsichtbar
+die Benutzerdefinierte Bossleiste %s ist nun sichtbar
+the Es existiert keine Bossleiste mit der ID ‚%s‘
+der %s Gegenstand/‐stände wurde(n) von %s Spielern entfernt
+der %s Gegenstand/‐stände wurde(n) von %s entfernt
+der %s übereinstimmende(r) Gegenstand/‐stände wurde(n) bei %s Spielern gefunden
+der %s übereinstimmende(r) Gegenstand/‐stände wurde(n) bei %s gefunden
+the Es wurden keine Blöcke kopiert
+der Quell- und Zielbereich darf sich nicht überschneiden
+die %s Blöcke wurden erfolgreich wiederholt
+the Zu viele Blöcke im angegebenen Bereich (maximal %s, angegeben %s)
+das Ziel kann durch den angegebenen Schadenstyp nicht verletzt werden
+der %s Schaden wurde auf %s angewendet
+the %s von Block bei (%s, %s, %s) multipliziert mit %s ist %s
+der Zielblock hat keine Blockdaten
+die Blockdaten bei (%s, %s, %s) wurden geändert
+Der Block bei (%s, %s, %s) besitzt die folgenden Blockdaten: %s
+das %s von %s multipliziert mit %s ist %s
+die Spielerdaten können nicht geändert werden
+die Objektdaten von %s wurden geändert
+%s besitzt die folgenden Objektdaten: %s
+das ‚%s‘ kann nicht abgefragt werden, die Eigenschaft ist keine Zahl
+Dieses Argument akzeptiert nur einen einzelnen NBT-Wert
+das ‚%s‘ kann nicht abgefragt werden, die Eigenschaft existiert nicht
+das Nichts hat sich geändert, die angegebenen Eigenschaften haben bereits diese Werte
+die Liste erwartet, ‚%s‘ erhalten
+das Objekt erwartet, ‚%s‘ erhalten
+der Wert erwartet, ‚%s‘ erhalten
+der Ungültige Listenindex: %s
+the %s im Speicher %s mit %s multipliziert ist %s
+der Speicher %s wurde geändert
+der Speicher %s besitzt die folgenden Daten: %s
+das Datenpaket ‚%s‘ ist bereits deaktiviert
+das Datenpaket ‚%s‘ ist bereits aktiviert
+the Das Datenpaket ‚%s‘ kann nicht aktiviert werden, weil die aktivierten Umschalter für diese Welt nicht aktiviert sind: %s!
+the Es sind keine weiteren Datenpakete verfügbar
+die Es sind %s Datenpakete verfügbar: %s
+die Es sind keine Datenpakete aktiviert
+die Es sind %s Datenpakete aktiviert: %s
+das Deaktiviere Datenpaket %s
+das Aktiviere Datenpaket %s
+das Unbekannte Datenpaket ‚%s‘
+die Tick-Aufzeichnung wurde bereits gestartet
+the Es kann nicht aus einer Funktion herausgeschrieben werden
+der %s Befehl(e) von %s Funktionen wurde(n) in die Ausgabedatei %s aufgezeichnet
+der %s Befehl(e) der Funktion ‚%s‘ wurde(n) in der Ausgabedatei %s aufgezeichnet
+die Funktion konnte nicht beschrieben werden
+die Tick-Aufzeichnung ist nicht aktiv
+die Tick‐Aufzeichnung gestartet
+die Tick-Aufzeichnung wurde nach %s Sekunden und %s Ticks gestoppt (%s Ticks pro Sekunde)
+der Standardspielmodus wurde auf %s gesetzt
+das Nichts hat sich geändert, der Spieler ist bereits kein Operator
+das %s ist kein Serveroperator mehr
+the Nichts hat sich geändert, die Schwierigkeit liegt bereits bei %s
+Die Schwierigkeit ist %s
+die Schwierigkeit wurde auf %s gesetzt
+das Objekt kann keine Gegenstände tragen
+das Objekt %s hat keine Beutetabelle
+die %s Gegenstände gefallen gelassen
+die %s Gegenstände aus Beutetabelle %s gefallen gelassen
+die %s %s gefallen gelassen
+die %s %s aus Beutetabelle %s gefallen gelassen
+das Ziel besitzt keine zu entfernenden Effekte
+the Alle Effekte wurden von %s Zielen entfernt
+the Alle Effekte wurden von %s entfernt
+the Ziel besitzt den zu entfernenden Effekt nicht
+der Effekt %s wurde von %s Zielen entfernt
+der Effekt %s wurde von %s entfernt
+the Effect konnte nicht angewendet werden (das Ziel ist resistent oder besitzt eine stärkere Stufe)
+der Effekt %s wurde auf %s Ziele angewendet
+der Effekt %s wurde auf %s angewendet
+the Nichts hat sich geändert, die Ziele halten entweder keinen Gegenstand in ihrer Haupthand oder die Verzauberung konnte nicht angewendet werden
+das %s ist kein gültiges Objekt für diesen Befehl
+das %s kann damit nicht verzaubert werden
+the %s hält keinen Gegenstand in der Haupthand
+die Stufe %s ist zu hoch, die maximale Stufe dieser Verzauberung beträgt %s
+die Verzauberung %s wurde auf %s Objekte angewendet
+die Verzauberung %s wurde auf den Gegenstand von %s angewendet
+the Zu viele Blöcke im angegebenen Bereich (maximal %s, angegeben %s)
+der Test fehlgeschlagen
+der Test fehlgeschlagen, Anzahl: %s
+der Test erfolgreich
+der Test erfolgreich, Anzahl: %s
+die %s Erfahrungsstufen wurden an %s Spieler gegeben
+die %s Erfahrungsstufen wurden an %s gegeben
+die %s Erfahrungspunkte wurden an %s Spieler gegeben
+die %s Erfahrungspunkte wurden an %s gegeben
+die %s hat Erfahrungsstufe %s
+der %s hat %s Erfahrungspunkte
+die Erfahrungsstufen von %2$s Spielern wurden auf %1$s gesetzt
+die Erfahrungsstufe von %2$s wurde auf %1$s gesetzt
+Die Erfahrungspunkte dürfen nicht höher gesetzt werden als das Maximum der aktuellen Erfahrungsstufe des Spielers
+die Erfahrungspunkte von %2$s Spielern wurden auf %1$s gesetzt
+die Erfahrungspunkte von %2$s wurden auf %1$s gesetzt
+the Es wurden keine Blöcke platziert
+die %s Blöcke wurden erfolgreich platziert
+the Zu viele Blöcke im angegebenen Bereich (maximal %s, angegeben %s)
+the Biome between %s, %s, %s und %s, %s, %s festgelegt
+the %s Biom‐Einträge zwischen %s, %s, %s und %s, %s, %s festgelegt
+the Zu viele Blöcke im angegebenen Raum (maximal %s, angegeben %s)
+the Nichts hat sich geändert, diese Chunks werden bereits dauerhaft geladen
+die %s Chunks in %s von %s bis %s werden nun dauerhaft geladen
+the In %s werden keine Chunks dauerhaft geladen
+der Chunk %s in %s wird nun dauerhaft geladen
+die In %2$s werden %1$s Chunks dauerhaft geladen: %3$s
+the In %s wird ein Chunk dauerhaft geladen: %s
+der Chunk %s in %s wird nicht dauerhaft geladen
+der Chunk %s in %s wird dauerhaft geladen
+the In %s werden nun keine Chunks mehr dauerhaft geladen
+the Nichts hat sich geändert, diese Chunks wurden auch bisher nicht dauerhaft geladen
+die %s Chunks in %s von %s bis %s werden nun nicht mehr dauerhaft geladen
+der Chunk %s in %s wird nun nicht mehr dauerhaft geladen
+the Zu viele Chunks im angegebenen Bereich (maximal %s, angegeben %s)
+der %s Befehl(e) von %s Funktionen wurde(n) ausgeführt
+the %s Befehl(e) der Funktion ‚%s‘ wurde(n) ausgeführt
+the Der Spielmodus von %s wurde auf %s gesetzt
+Dein Spielmodus wurde auf %s gesetzt
+die Die Spielregel %s ist derzeit ‚%s‘
+die Spielregel %s wurde auf ‚%s‘ gesetzt
+die Kann nicht mehr als %s %s geben
+die %s %s einem %s Spieler gegeben
+dem %s %s ein %s gegeben
+der Unbekannte Befehl oder die unzureichende Berechtigung
+the Inhalt eines Inventarplatzes bei (%s, %s, %s) wurde durch %s ersetzt
+the Inhalt eines Inventarplatzes von %s Objekten wurde durch %s ersetzt
+the Inhalt eines Inventarplatzes von %s wurde durch %s ersetzt
+die Quelle besitzt Inventarplatz %s nicht
+die Quellposition %s, %s, %s besitzt kein Inventar
+the Kein Ziel lässt %s bei Inventarplatz %s zu
+the Kein Ziel Gegenstände lässt bei Inventarplatz %s zu
+das Ziel besitzt Inventarplatz %s nicht
+die Zielposition %s, %s, %s besitzt kein Inventar
+der Fehler beim Speichern der JFR‐Aufzeichnung: %s
+der Fehler Starten beim JFR-Aufzeichnung
+die JFR-Aufzeichnung gestartet
+die JFR‐Aufzeichnung gestoppt und in %s gespeichert
+das %s wurde rausgeworfen: %s
+die %s Objekte wurden geschrottet
+das %s wurde beschmutzt
+das %s (%s)
+die Es sind %s von maximal %s Spielern online: %s
+the Es konnte in angemessener Entfernung kein Biom des Typs „%s“ gefunden werden
+das %s ist am nächsten bei %s (%s Blöcke entfernt)
+the Es konnte in angemessener Entfernung kein Zielpunkt des Typs „%s“ gefunden werden
+der Zielpunkt %s ist am nächsten bei %s (%s Blöcke entfernt)
+the Es gibt keine Struktur des Typs „%s“
+the Es konnte in der Nähe keine Struktur des Typs „%s“ gefunden werden
+das %s ist am nächsten bei %s (%s Blöcke entfernt)
+das %s flüstert dir zu: %s
+die Du flüsterst %s zu: %s
+das Nichts hat sich geändert, der Spieler ist bereits ein Operator
+das %s wurde zum Serveroperator verlegt
+das Nichts hat sich geändert, der Spieler ist nicht gesperrt
+das %s wurde entsperrt
+das Nichts hat sich geändert, diese IP-Adresse ist nicht gesperrt
+die Ungültige IP-Adresse
+die IP-Adresse %s wurde entsperrt
+der Partikel war für niemanden sichtbar
+das Partikel %s wird gezeigt
+die Leistungsaufzeichnung wurde bereits gestartet
+die Leistungsaufzeichnung ist nicht aktiv
+der Debug‐Bericht konnte nicht erstellt werden
+der Debug‐Bericht wurde in %s erstellt
+the 10‐sekündige Leistungsaufzeichnung wurde gestartet (benutze ‚/perf stop‘, um sie vorzeitig zu beenden)
+the Leistungsaufzeichnung wurde nach %s Sekunde(n) und %s Tick(s) beendet (%s Tick(s) pro Sekunde)
+das Merkmal konnte nicht platziert werden
+das Es gibt kein Merkmal des Typs „%s“
+das „%s“ wurde bei %s, %s, %s platziert
+der Verbund konnte nicht generiert werden
+the Es gibt keine Vorlagenquelle des Typs „%s“
+der Verbund wurde von %s, %s, %s generiert
+die Konstruktion konnte nicht platziert werden
+the Es gibt keine Struktur des Typs „%s“
+die Konstruktion „%s“ wurde von %s, %s, %s generiert
+die Vorlage konnte nicht platziert werden
+the Es existiert keine Vorlage mit der ID „%s“
+die Vorlage „%s“ bei %s, %s, %s geladen
+das Geräusch ist zu weit entfernt, um gehört zu werden
+das Geräusch %s wurde für %s Spieler abgespielt
+das Geräusch %s wurde für %s abgespielt
+das LAN-Spiel ist bereits unter Port %s erreichbar
+the Es konnte kein LAN-Spiel erstellt werden
+das LAN-Spiel unter Port %s erreichbar
+das LAN-Spiel ist jetzt unter Port %s erreichbar
+the Es wurden keine neuen Rezepte freigeschaltet
+die %s Rezepte wurden für %s Spieler freigeschaltet
+die %s Rezepte wurden für %s freigeschaltet
+das Es konnten keine Rezepte entfernt werden
+the %s Rezepte wurden von %s Spielern entfernt
+die %s Rezepte wurden von %s entfernt
+the Neuladen fehlgeschlagen, alte Daten werden beibehalten
+die Datenpakete werden neu geladen
+das %s ist bereits auf %s aufgestiegen
+das %s ist von %s abgestiegen
+Der Auf Spieler kann nichts aufsteigen
+der %s konnte nicht auf %s aufsteigen
+the Kann das Objekt nicht auf sich selbst oder einen seiner Passagiere aufsteigen lassen
+the Auf Objekt in anderer Dimension kann nicht aufgestiegen werden
+das %s ist auf %s aufgestiegen
+das %s ist auf kein Fahrmittel aufgestiegen
+Automatisches Speichern ist bereits deaktiviert
+Automatisches Speichern ist bereits aktiviert
+Automatisches Speichern ist jetzt deaktiviert
+Automatisches Speichern ist jetzt aktiviert
+the Spiel konnte nicht gespeichert werden (ist genug freier Speicherplatz vorhanden?)
+the Spiel wird verzögert (das kann einen Moment dauern!)
+das Spiel wurde gespeichert
+the Es gibt keine Planungen mit der ID %s
+the Es wurde(n) %s Planung(en) mit der ID %s entfernt
+die Funktion ‚%s‘ wurde in %s Tick(s) zur Spielzeit %s eingeplant
+das Etikett ‚%s‘ wurde in %s Ticks zur Spielzeit %s eingeplant
+the Für den aktuellen Tick kann nichts eingeplant werden
+the Ein Ziel mit diesem Namen existiert bereits
+das Neue Ziel %s wurde erstellt
+das Nichts hat sich geändert, die Anzeigeposition ist bereits leer
+das Nichts hat sich geändert, die Anzeigeposition zeigt bereits das Ziel
+die Alle Ziele in Anzeigeposition %s wurden gelöscht
+die Anzeigeposition %s zeigt nun das Ziel %s
+das Es gibt keine Ziele
+das Es gibt %s Ziele: %s
+der Anzeigename von %s wurde zu %s geändert
+die Darstellungsart von Ziel %s wurde geändert
+das Ziel %s wurde entfernt
+the %2$s wurde für %3$s Objekte um %1$s erhöht
+der %2$s wurde für %3$s um %1$s (jetzt %4$s) erhöht
+das Nichts hat sich geändert, der Auslöser ist bereits aktiviert
+the This Befehl funktioniert nur für Auslöser (Trigger-Ziele)
+der Auslöser %s wurde für %s Objekte aktiviert
+der Auslöser %s wurde für %s aktiviert
+der Wert von %s für %s kann nicht abgefragt werden, da keiner gesetzt ist
+der %s Hut %s %s
+the Es gibt keine überwachten Objekte
+der %s hat keine Punktestände
+das %s: %s
+der %s hat %s Punktestände:
+das Es gibt %s überwachte Objekte: %s
+das %s wurde für %s Objekte geändert
+das %s wurde für %s auf %s geändert
+the %2$s wurde für %3$s Objekte um %1$s vergrößert
+der %2$s wurde für %3$s um %1$s verringert (jetzt %4$s)
+die Alle Punktestände wurden für %s Objekte gelöscht
+die Alle Punktestände wurden für %s gelöscht
+das %s wurde für %s Objekte gelöscht
+das %s wurde für %s gelöscht
+the %s wurde für %s Objekte auf %s gesetzt
+das %s wurde für %s auf %s gesetzt
+Der Startwert ist %s
+der Block konnte nicht platziert werden
+der Block bei (%s, %s, %s) wurde geändert
+das Untätigkeitslimit wurde auf %s Minute(n) gesetzt
+der Welteinstiegspunkt wurde auf (%s, %s, %s) [%s] gesetzt
+der Einstiegspunkt von %6$s Spielern wurde auf (%1$s, %2$s, %3$s) [%4$s] in %5$s gesetzt
+der Einstiegspunkt von %6$s wurde auf (%1$s, %2$s, %3$s) [%4$s] in %5$s gesetzt
+das %s ist nicht im Zuschauermodus
+das Du kannst dich nicht selbst beobachten
+die Du beobachtest Nonne %s
+the Du beobachtest kein Objekt mehr
+the %s Objekt(e) konnte(n) nicht um (%s, %s) verteilt Werden (zu wenig Platz für Objekte – versuche, höchstes %s zu verteilen)
+der Ungültiger Wert für maxHeight: %s. Er muss höher sein als die Weltuntergrenze %s
+the %s Team(s) konnte(n) nicht um (%s, %s) verteilt Werden (zu wenig Platz für Teams – versuche, höchstens %s zu verteilen)
+the %s Spieler wurde(n) rund um (%s, %s) mit einem Abstand von durchschnittlich %s Blöcken zueinander verteilt
+the %s Team(s) wurde(n) rund um (%s, %s) mit einem Abstand von durchschnittlich %s Blöcken zueinander verteilt
+der Server wird gestoppt
+die Alle %s-Geräte wurden gestoppt
+the Geräusch %s für sterben Geräuschart %s wurde gestoppt
+Alle Geräusche wurden gestoppt
+das Geräusch %s wurde gestoppt
+das Objekt konnte nicht erzeugt werden
+das Objekt konnte nicht erzeugt werden; die UUID existiert bereits
+die Ungültige Position zum Erzeugen
+das %s wurde erzeugt
+the Entweder hat das Ziel bereits dieses Etikett oder es hat zu viele Etiketten
+das Etikett ‚%s‘ wurde %s Objekten hinzugefügt
+das Etikett ‚%s‘ wurde %s hinzugefügt
+die Die %s ausgewählten Objekte haben kein Etikett
+die Die %s ausgewählten Objekte haben insgesamt %s Etiketten: %s
+der %s hat keine Etiketten
+der %s Hut %s Etiketten: %s
+das Ziel besitzt dieses Etikett nicht
+das Etikett ‚%s‘ wurde von %s Objekten entfernt
+das Etikett ‚%s‘ wurde von %s entfernt
+the Ein Team mit diesem Namen existiert bereits
+das Team %s wurde erstellt
+die %s Mitglieder wurden aus Team %s entfernt
+the Nichts hat sich geändert, das Team ist bereits leer
+die %s Mitglieder wurden zu Team %s hinzugefügt
+das %s wurde zu Team %s hinzugefügt
+die %s Mitglieder wurden aus Teams entfernt
+das %s wurde aus jedem Team entfernt
+das Team %s hat keine Mitglieder
+das Team %s hat %s Mitglieder: %s
+die Es gibt keine Teams
+das Es gibt %s Teams: %s
+die Schieberegel für Team %s wurde auf ‚%s‘ gesetzt
+the Nichts hat sich geändert, die Schieberegel hat bereits diesen Wert
+die Farbe von Team %s wurde auf %s gesetzt
+the Nichts hat sich geändert, das Team hat bereits diese Farbe
+die Sichtbarkeit der Todesmeldungen von Team %s wurde auf ‚%s‘ gesetzt
+the Nichts hat sich geändert, die Sichtbarkeit der Todesmeldungen hat bereits diesen Wert
+the Nichts hat sich geändert, für dieses Team ist Eigenbeschuss bereits deaktiviert
+the Nichts hat sich geändert, für dieses Team ist Eigenbeschuss bereits aktiviert
+der Eigenbeschuss wurde für Team %s deaktiviert
+der Eigenanteil wurde für Team %s aktiviert
+der Name von Team %s wurde aktualisiert
+the Nichts hat sich geändert, das Team hat bereits diesen Namen
+die Sichtbarkeit der Spielernamen von Team %s wurde auf ‚%s‘ gesetzt
+the Nichts hat sich geändert, die Sichtbarkeit der Spielernamen hat bereits diesen Wert
+das Team-Präfix wurde auf %s gesetzt
+the Nichts hat sich geändert, das Team kann bereits unsichtbare Teammitglieder nicht sehen
+the Nichts hat sich geändert, das Team kann bereits unsichtbare Teammitglieder sehen
+das Team %s kann keine unsichtbaren Teammitglieder mehr sehen
+das Team %s kann nun unsichtbare Teammitglieder sehen
+das Team-Suffix wurde auf %s gesetzt
+das Team %s wurde entfernt
+Du musst in einem Team sein, um dein Team zu benachrichtigen
+die Ungültige Position zum Teleportieren
+die %s Objekte wurden zu %s teleportiert
+das %s wurde zu %s teleportiert
+die %s Objekte wurden zu (%s, %s, %s) teleportiert
+das %s wurde zu (%s, %s, %s) teleportiert
+Die aktuelle Zeit ist %s
+die Zeit wurde auf %s gesetzt
+the Alle Titel wurden für %s Spieler entfernt
+the Alle Titel wurden für %s entfernt
+die Titel-Anzeigezeiten wurden für %s Spieler zurückgesetzt
+die Titel-Anzeigezeiten wurden für %s zurückgesetzt
+der Neuer Aktionsleistentitel WIRD für %s Spieler angezeigt
+der Neuer Aktionsleistentitel WIRD für %s angezeigt
+der Neuer Untertitel WIRD für %s Spieler angezeigt
+der Neuer Untertitel WIRD für %s angezeigt
+der Neuer Titel WIRD für %s Spieler angezeigt
+der Neuer Titel WIRD für %s angezeigt
+die Titel-Anzeigezeiten wurden für %s Spieler geändert
+die Titel-Anzeigezeiten wurden für %s geändert
+the %s wurde ausgelöst (Wert wurde um %s erhöht)
+das Ziel ist kein Auslöser
+der Auslöser ist noch nicht aktiviert
+the %s wurde ausgelöst (Wert wurde auf %s gesetzt)
+das %s wurde ausgelöst
+das Wetter wurde auf Klar geändert
+das Wetter wurde auf Regen geändert
+das Wetter wurde auf Gewitter geändert
+the Spieler steht bereits auf der Gästeliste
+%s wurde auf die Gästeliste gesetzt
+Die Gästeliste ist bereits deaktiviert
+Die Gästeliste ist bereits aktiviert
+Die Gästeliste ist jetzt deaktiviert
+Die Gästeliste ist jetzt aktiviert
+the Es steht/stehen %s Spieler auf der Gästeliste: %s
+the Es stehen keine Spieler auf der Gästeliste
+Die Gästeliste wurde neu geladen
+the Spieler steht nicht auf der Gästeliste
+%s wurde von der Gästeliste entfernt
+the Nichts hat sich geändert, die Weltbarriere hat bereits diese Mitte
+the Die Mitte der Weltbarriere wurde auf (%s, %s) gesetzt
+the Nichts hat sich geändert, der von der Weltbarriere verursachte Schaden hat bereits diesen Wert
+the Der Schaden der Weltbarriere wurde auf %s pro Block jede Sekunde gesetzt
+the Nichts hat sich geändert, der Unversehrtheitsbereich um die Weltbarriere hat bereits this size
+the Der Unversehrtheitsbereich um die Weltbarriere wurde auf %s Block/Blöcke gesetzt
+the Die Weltbarriere hat derzeit eine Weite von %s Block/Blöcken
+the Die Weite der Weltbarriere darf nicht größer als %s Blöcke sein
+the Die Weltbarriere darf nicht weiter als %s Blöcke entfernt sein
+the Nichts hat sich geändert, die Weltbarriere hat bereits diese Weite
+the Die Weite der Weltbarriere darf nicht kleiner als 1 Block sein
+the Die Weltbarriere wird innerhalb von %2$s Sekunden auf eine Weite von %1$s Blöcken vergrößert
+the Die Weltbarriere wurde auf eine Weite von %s Block/Blöcken gesetzt
+the Die Weltbarriere wird innerhalb von %2$s Sekunde(n) auf eine Weite von %1$s Block/Blöcke verkleinert
+the Nichts hat sich geändert, der Warnbereich um die Weltbarriere hat bereits diese Größe
+the Der Warnbereich um die Weltbarriere wurde auf %s Block/Blöcke gesetzt
+the Nichts hat sich geändert, die Warnzeit der Weltbarriere hat bereits diesen Wert
+the Die Warnzeit der Weltbarriere wurde auf %s Sekunde(n) gesetzt
+das Du spielst bereits seit mehr als 24 Stunden
+the Du spielst bereits seit %s Stunde(n)
+Das Übermäßige Spielen kann den Alltag beeinträchtigen
+der Abgebrochene
+das Anmelden …
+die Verbund zum Server …
+das verschlüsseln …
+der Verbindungsaufbau fehlgeschlagen
+die Welt wird betreten …
+das Aushandeln …
+das Fass
+das Leuchtfeuer
+Der Schmelzofen
+der Braustand
+der Kartentisch
+die Truhe
+die Große Truhe
+das Handwerk
+die Gegenstände
+der Werfer
+der Spender
+das Verzaubern
+das %s …?
+der %s Lapislazuli
+der 1 Lapislazuli
+das %s Erfahrstufen
+die 1 Erfahrungsstufe
+die Erforderliche Erfahrungsstufe: %s
+die Endertruhe
+der Ofen
+das Reparieren & Entzaubern
+der Trichter
+das Inventar
+das %s ist verschlossen!
+das Lesepult
+der Webstuhl
+das Reparieren & Bennen
+die Erfahrungskosten: %1$s
+das Zu teuer!
+die Shulker-Kiste
+die und %s weitere …
+der Räucherofen
+die Kann nicht geöffnet werden. Inhalt wurde noch nicht generiert.
+die Steinsäge
+die Ausrüstung aufwerten
+the Dein Gegenstand kann so nicht aufgewertet werden
+die Lege hier eine Schmiedevorlage hinein
+die Tastenbelegung …
+the this taste WIRD auch verwendet für:
+%S
+die Tastenbelegung
+das Zurücksetzen
+die Tasten zurücksetzen
+die Steuerung
+die Bitte wählen Sie ein Biom
+die Anpassung der Buffet-Welt
+die Basishöhe
+der Versatz Biomtiefe
+die Gewichtung Biomtiefe
+der Versatz Biomfaktor
+die Gewichtung Biomfaktor
+die Biomgröße
+die Zentralhöhe
+das Dies überschreibt endgültig sterben
+die aktuellen Werte. Bist du sicher?
+die Achtung!
+der Horizontaler Faktor
+die Generierungsversuche
+Der Standard
+der Exponent Rauschen Tiefe
+der Rauschfaktor Tiefe X
+der Rauschfaktor Tiefe Z
+die Anzahl an Verliesen
+die Biom
+Der Vertikale Faktor
+die Seltenheit von Lavaseen
+die Untere Begrenzung
+der Rauschfaktor X
+der Rauschfaktor Y
+Der Rauschfaktor Z
+die Maximalhöhe
+die Mindesthöhe
+die nächste Seite
+die Grundeinstellungen
+die Erzeinstellungen
+die Erweiterten Einstellungen (für Experten!)
+die Extra erweiterten Einstellungen (für Experten!)
+die Höhlen des Chaos
+die Höhlenforschers Entzücken
+die Dürre
+das Viel Glück
+das Inselland
+die Wahnsinnsberge
+die Wasserwelt
+die Vorlagen
+die Angepasste Welt - Vorlagen
+die vorherige Seite
+die Zufällig
+die Flussgröße
+Der Meeresspiegel
+die Generierungsgröße
+die Verteilungshöhe
+die Höhenstreckung
+die Obere Grenze
+die Höhlen
+die Verliese
+die Lavaseen
+das Lavaozean
+das Waldanwesen
+die Minenschächte
+das Ozeandenkmal
+die Ozeanruinen
+die Schluchten
+die Festungen
+der Tempel
+die Dörfer
+die Wasserseen
+Die Seltenheit von Seen
+die Höhe
+die %s
+der Boden – %s
+die Oberfläche – %s
+die Schicht entfernen
+das Schichtmaterial
+die Flachlandanpassung
+die Voreinstellungen
+die Alternative sind hier einige, die wir zuvor erstellt haben!
+die Voreinstellung benutzen
+the Möchtest du deine Vorlage mit jemandem teilen? Benutze das Eingabefeld!
+die Voreinstellung auswählen
+die Welterstellung wird vorbereitet …
+das Spiel
+das Mehr
+die Welt
+die Namensnennung
+die Mitwirkenden
+die Lizenzen
+die Mitwirkende und Namensnennung
+the Aktiviert das experimentelle Bündel
+das Bündel
+die Datenpakete auswählen
+die Neue Spielelemente und Inhalte für Minecraft 1.20
+die Aktualisierung 1.20
+der Zurück
+die Überprüfung der Datenpakete fehlgeschlagen!
+den Auf Standard zurücksetzen
+die Ausgewählten Datenpakete werden überprüft …
+die Die Standarddaten für Minecraft
+Der Standard
+Der Abgesicherte Modus
+die Diese Welt enthält ungültige oder beschädigte Speicherdaten.
+the Laden der Welt im abgesicherten Modus fehlgeschlagen
+Der Fehler in den derzeit ausgewählten Datenpaketen hat das Laden der Welt verhindert.
+Du kannst versuchen, sie nur mit dem Vanilla-Datenpaket zu laden („abgesicherter Modus“), oder zum Hauptmenü zurückkehren und es manuell beheben.
+the %1$s wurde von einem gefallenden Amboss zerquetscht
+the %1$s wurde during des Kampfes mit %2$s von einem gefallenen Amboss zerquetscht
+der %1$s wurde von %2$s erschossen
+der %1$s wurde von %2$s mit %3$s geschossen
+das beabsichtigte Spieldesign
+der %1$s wurde von %2$s getötet
+the %1$s wurde von einem Kaktus zu Tode gestochen
+the %1$s lief beim Versuch, %2$s zu entkommen, in einen Kaktus
+das %1$s wurde zerquetscht
+der %1$s wurde von %2$s zerquetscht
+die %1$s wurde in Drachenatem geröstet
+der %1$s wurde durch %2$s in Drachenatem geröstet
+der %1$s ertrank
+der %1$s ertrank beim Versuch, %2$s zu entkommen
+der Stern %1$s ein Wassermangel
+the %1$s star beim Versuch, %2$s zu entkommen, an Wassermangel
+the %1$s wurde durch verstärkte Magie getötet
+das %1$s wurde in die Luft gesprengt
+the %1$s wurde von %2$s in die Luft gesprengt
+the %1$s wurde von %2$s mit %3$s in die Luft gesprengt
+the %1$s field der Schwerkraft zum Opfer
+the %1$s field beim Versuch, %2$s zu entkommen, der Schwerkraft zum Opfer
+the %1$s wurde von einem gefallenen Block zerquetscht
+der %1$s wurde während des Kampfes mit %2$s von einem gefallenen Block zerquetscht
+the %1$s wurde von einem gefallenen Stalaktiten aufgespießt
+the %1$s wurde während des Kampfes mit %2$s von einem gefallenen Stalaktiten aufgespießt
+der %1$s wurde von %2$s flambiert
+der %1$s wurde von %2$s mit %3$s flambiert
+the %1$s flog mit einem Knall in die Luft
+the %1$s flog aufgrund eines Feuerwerks, das von %2$s mit %3$s abgeschossen wurde, mit einem Knall in die Luft
+the %1$s peitscht während des Kampfes mit %2$s mit einem Knall in die Luft
+die %1$s erfuhr kinetische Energie
+the %1$s erfuhr beim Versuch, %2$s zu entkommen, kinetische Energie
+das %1$s ist erfroren
+das %1$s ist durch %2$s erfroren
+der %1$s Stern
+der %1$s Stern wegen %2$s
+der %1$s wurde der Boden zu heiß
+die %1$sgeriet wegen %2$s in den Gefahrenbereich
+das %1$s geht in Flammen auf
+das %1$s Leben während des Kampfes mit %2$s ins Feuer
+das %1$s wurde lebendig begraben
+the %1$s wurde während des Kampfes mit %2$s lebendig begraben
+the %1$s wurde von %2$s mit Magie getötet
+der %1$s wurde von %2$s mit %3$s getötet
+die %1$s versucht, in Lava zu schwimmen
+die %1$s haben versucht, in Lava zu schwimmen, um %2$s zu entkommen
+der %1$s wurde vom Blitz getroffen
+der %1$s wurde während des Kampfes mit %2$s vom Blitz getroffen
+das %1$s wurde durch Magie getötet
+the %1$s wurde beim Versuch, %2$s zu entkommen, durch Magie getötet
+the Leider IST sterben Meldung zu lang, um angezeigt werden zu can. Hier ist eine verkürzte Version: %s
+der %1$s wurde von %2$s erschlagen
+der %1$s wurde von %2$s mit %3$s erschlagen
+die %1$s verbrannte
+der %1$s wurde während des Kampfes mit %2$s – %3$s führend – geröstet
+der %1$s wurde während des Kampfes mit %2$s geröstet
+das %1$s-Feld aus der Welt
+die %1$s wollten nicht mehr in derselben Welt wie %2$s leben
+der %1$s wurde von %2$s erschlagen
+der %1$s wurde von %2$s mit %3$s erschlagen
+the %1$s wurde durch schallgeladenes Kreischen ausgelöscht
+the %1$s wurde beim Versuch, %2$s – %3$s führend – zu entkommen, durch schallgeladenes Kreischen ausgelöscht
+the %1$s wurde beim Versuch, %2$s zu entkommen, durch schallgeladenes Kreischen ausgelöscht
+the %1$s wurde von einem Stalagmiten aufgespießt
+the %1$s wurde während des Kampfes mit %2$s von einem Stalagmiten aufgespießt
+die %1$s verhungerte
+der %1$s verhungerte während des Kampfes mit %2$s
+das %1$s wurde zu Tode gestochen
+the %1$s wurde von %2$s mit %3$s zu Tode gestochen
+the %1$s wurde von %2$s zu Tode gestochen
+the %1$s hat sich an einem Süßbeerstrauch zu Tode gestochen
+the %1$s hat sich beim Versuch, %2$s zu entkommen, an einem Süßbeerstrauch zu Tode gestochen
+the %1$s wurde beim Versuch, %2$s zu betroffen, getötet
+the %1$s wurde beim Versuch, %2$s zu betroffen, von %3$s getötet
+the %1$s wurde von %2$s zu Tode geprügelt
+the %1$s wurde von %2$s mit %3$s zu Tode geprügelt
+der %1$s wurde von %2$s aufgespießt
+the %1$s wurde von %2$s mit %3$s aufgespießt
+die %1$s verdorrte
+der %1$s verdorrte während des Kampfes mit %2$s
+the %1$s wurde von %2$s mit einem Schädel erschossen
+the %1$s wurde von %2$s mit %3$s mit einem Schädel erschossen
+die %1$s fallen aus zu großer Höhe
+the %1$s stürzte von einer Leiter ab
+the %1$s stürzte beim Klettern ab
+the %1$s stürzte von einem Gerüst ab
+the %1$s stürzte von Zwirbelranken ab
+der %1$s stürzte von Ranken ab
+the %1$s stürzte von Trauerranken ab
+the %1$s wurde von %2$s zum Absturz verdammt
+the %1$s wurde von %2$s mit %3$s zum Absturz verdammt
+das %1$s fällt zu tief und wurde von %2$s erledigt
+das %1$s fällt zu tief und wurde von %2$s mit %3$s erledigt
+der %1$s wurde zum Absturz verdammt
+the Bist du sicher, dass du das Spiel verlassen möchtest?
+das Wiederbeleben
+der Punktestand
+die Welt beobachten
+das Du bist gestorben!
+Das Spiel ist vorbei!
+das Hauptmenü
+die F3 + H = Erweiterte Schnellinfos
+die Erweiterten Schnellinfos: unsichtbar
+die Erweiterten Schnellinfos: sichtbar
+die F3 + G = Chunkgrenzen anzeigen
+die Chunkgrenzen: unsichtbar
+die Chunkgrenzen: sichtbar
+die F3 + D = Chat leer
+F3 + C = Position als /tp-Befehl kopieren oder gedrückt halten, um einen Absturz zu erzwingen
+die Position wurde in die Zwischenablage kopiert
+F3 + C sind gedrückt. Dies wird das Spiel abstürzen lassen, wenn sie nicht losgelassen werden.
+der Absturz in %s …
+der Spielmodus kann nicht geändert werden; keine Berechtigung
+F3 + N = Zwischen vorherigem Spielmodus und Zuschauermodus wechseln
+die Dynamischen Texturen in %s gespeichert
+die F3 + S = Dynamische Texturen ausgeben
+Die Spielmodusauswahl kann wegen fehlender Berechtigung nicht geöffnet werden
+die F3 + F4 = Spielmodusauswahl öffnen
+die [ F4 ]
+der %s Nächster
+die F3 + Q = Diese Liste anzeigen
+die Tastenbelegung:
+die Clientseitigen Blockdaten in Zwischenablage kopiert
+die Clientseitigen Objektdaten in Zwischenablage kopiert
+F3 + I = Block- oder Objektdaten in Zwischenablage kopieren
+die serverseitigen Blockdaten in Zwischenablage kopiert
+die serverseitigen Objektdaten in Zwischenablage kopiert
+die F3 + Esc = Spiel ohne Pausenmenü anhalten (sofern möglich)
+die F3 + P = Pausieren bei Fokusverlust
+das Pausen bei Fokusverlust: deaktiviert
+das Pausen bei Fokusverlust: aktiviert
+das [Debuggen]:
+F3 + L = Profilerstellung starten/beenden
+die Debug‐Aufzeichnung wurde für %s Sekunden gestartet. Benutze F3 + L, um sie vorzeitig zu beenden
+die Profilerstellung beendet. Ergebnisse wurden in %s gespeichert.
+die F3 + A = Chunks neu laden
+Die Alle Chunks werden neu geladen
+die F3 + T = Ressourcenpakete neu laden
+die Ressourcenpakete neu geladen
+die F3 + B = Hitboxen anzeigen
+die Hitboxen: unsichtbar
+die Hitboxen: sichtbar
+die Diese Demo beinhaltet fünf Spieltage. Gib dein Bestes!
+der Zweite Tag
+der Dritte Tag
+das Vierte Tag
+der Fünfte und Letzte Tag!
+Dein fünfter Spieltag ist zu Ende. Drücke %s, um einen Screenshot deiner Schöpfung abzuspeichern.
+die Deine Zeit ist schon fast um!
+die Demozeit ist abgelaufen!
+das Jetzt kaufen!
+die Diese Demo dauert 5 Spieltage (ca. 1 Stunde und 40 Minuten echte Zeit). Sieh dir die Fortschritte für Hinweise an! Viel Spaß!
+the Mit %1$s öffnest du dein Inventar
+die Drücke %1$s, um zu springen
+das Weiterspielen!
+die Benutze %1$s, %2$s, %3$s, %4$s und die Maus, um dich zu bewegen
+the Sieh dich mithilfe der Maus um
+die Bewege dich mit %1$s, %2$s, %3$s, %4$s
+den Minecraft-Demo-Modus
+die verbleibende Zeit: %s
+Die Demozeit ist abgelaufen. Kaufe das Spiel, um fortzufahren, oder erstelle eine neue Welt!
+the Bist du sicher, dass du die Schwierigkeit dieser Welt sperren möchtest? Dies WIRD die Welt für immer auf %1$s setzen und du wirst diese Einstellung nicht mehr ändern können.
+die Schwierigkeit dieser Welt sperren
+die Verbindung getrennt
+der Vom-Server getrennt
+das Ende der Übertragung
+die Wegen Überschreitung des Paketratenlimits hinausgeworfen
+die %s
+das Wurde aus dem Spiel geworfen
+die Anmeldung fehlgeschlagen
+die Anmeldung fehlgeschlagen: %s
+Der Mehrspielermodus ist deaktiviert. Bitte überprüfe die Einstellungen deines Microsoft‐Kontos.
+die Ungültige Sitzung (Versuche, das Spiel und ggf. den Launcher neu zu starten)
+Die Authentifizierungsserver sind derzeit nicht erreichbar. Bitte versuchen Sie es erneut.
+the Du bist vom Online‐Spielen ausgeschlossen
+die Verbindung unterbrechen
+der Pufferüberlauf
+das wird beendet
+das Rausgeworfen wegen Spamming
+die Zeitüberschreitung
+der Unbekannter-Server
+die Standards
+die Spielregeln bearbeiten
+das ∞
+die Absorption
+das Drohendes Unheil
+die Blindheit
+die Meereskraft
+die Dunkelheit
+der Gunst des Delfins
+der Feuerschutz
+die Leuchten
+die Eile
+die Extraenergie
+der Held des Dorfes
+der Hunger
+der Direktschaden
+die Direktheilung
+die Unsichtbarkeit
+die Sprungkraft
+die Schwebekraft
+das Glück
+die Abbaulähmung
+die Übelkeit
+die Nachtsicht
+die Vergiftung
+die Regenerierung
+die Resistenz
+die Sättigung
+der Sanfter Fall
+die Langsamkeit
+die Schnelligkeit
+die Stärke
+der Pech
+die Unterwasseratmung
+die Schwäche
+die Ausdörrung
+die Wirkungslos
+das i
+das X
+der II
+der III
+die IV
+das V
+die VI
+der VII
+der VIII
+der IX
+die Wasseraffinität
+die Nemesis der Gliederfüßer
+der Fluss der Bindung
+der Explosionsschutz
+die Entladung
+der Wasserläufer
+die Effizienz
+der Federfall
+die Verbrennung
+der Feuerschutz
+die Flamme
+das Glück
+der Eisläufer
+die Harpune
+die Unendlichkeit
+der Rückstoß
+die Plünderung
+die Treue
+das Glück des Meeres
+der Köder
+die Reparatur
+Der Mehrfachschuss
+der Durchschuss
+die Stärke
+der Schusssicher
+der Schütz
+der Schlag
+der Schnellladen
+die Atmung
+der Sog
+die Schärfe
+die Behutsamkeit
+das Bann
+der Seelenläufer
+die Schwungkraft
+der Huschen
+die Dornen
+die Haltbarkeit
+der Fluss des Verschwindens
+der Hilfsgeist
+die Partikelwolke
+der Rüstungsständer
+der Pfeil
+der Axolotl
+die Fledermaus
+die Biene
+die Lohe
+der Blockdarsteller
+das Boot
+der Dromedar
+die Katze
+die Höhlenspinne
+der Truhenboot
+die Güterlore
+das Huhn
+die Kabeljau
+die Befehlsblocklore
+die Kuh
+Der Creeper
+der Delphin
+die Esel
+die Drachen-Feuerkugel
+der Ertrunker
+das Geworfenes Ei
+Der Große Wächter
+der Enderkristall
+der Enderdrache
+die Geworfene Enderperle
+der Endermann
+die Endermite
+der Magier
+die Fangzähne
+das Geworfene Erfahrungsfläschchen
+die Erfahrungskugel
+die Enderauge
+Der Fallender-Block
+der Fallender %s
+die Feuerkugel
+die Feuerwerksrakete
+der Schwimmer
+der Fuchs
+der Frosch
+die Ofenkunde
+das Gespenst
+die Riese
+der Leuchtrahmen
+der Leuchttintenfisch
+die Ziege
+der Wächter
+der Hoglin
+die Trichterlore
+das Pferd
+die Wüstenzombie
+Der Illusionist
+das Interaktionsobjekt
+der Eisengolem
+der Gegenstand
+der Gegenstandsdarsteller
+der Rahmen
+das Killer-Kaninchen
+der Leinenknoten
+der Blitz
+der Lama
+die Lamaspucke
+der Magmawürfel
+der Marker
+die Überlieferung
+der Mooshroom
+der Maultier
+der Ozelot
+das Gemälde
+der Panda
+die Papagei
+das Phantom
+das Schwein
+der Pigline
+die Piglin-Barbar
+der Plünderer
+der Spieler
+der Eisbär
+der Trank
+der Kugelfisch
+das Kaninchen
+der Verwüster
+der Lachs
+der Schaf
+der Schulker
+das Shulker-Geschoss
+das Silberfischchen
+das Skelett
+das Skelettpferd
+der Schleim
+Die Kleine Feuerkugel
+der Schnüffler
+der Schneegolem
+der Schneeball
+die Spawner-Lore
+der Spektralpfeil
+die Spinne
+der Tintenfisch
+der Eiswanderer
+der Schreiter
+die Kaulquappe
+der Textdarsteller
+das gezündete TNT
+die TNT-Lore
+das Händlerlama
+der Dreizack
+der Tropenfisch
+der Anemonenfisch
+der Schwarze Segelflossendoktor
+der Halfterfisch
+der Orangestreifen-Falterfisch
+der Papageifisch
+der Diadem-Prachtkaiserfisch
+der Rote Buntbarsch
+der Rotlippen-Schleimfisch
+Der Rote Schnapper
+der Fingerfisch
+der Rote Anemonenfisch
+der Drückerfisch
+der Blaue Segelflossendoktor
+der Gelbschwanz-Papageifisch
+der Gelbe Segelflossendoktor
+der Falterfisch
+der Buntbarsch
+der Clownfisch
+der Zuckerwatte-Kampffisch
+der Zwergbarsch
+der Kaiser-Schnapper
+die Meerbarbe
+der Peitschenfisch
+der Blockfisch
+der Salzfisch
+der Lehmfisch
+der Flitzer
+der Plascher
+die Glitzerfisch
+der Trommlerfisch
+der Schnüffler
+der Flecken-Lippfisch
+der Streifler
+der Sonnenstreifenfisch
+die Schildkröte
+der Plagegeist
+die Dorfbewohner
+Der Panzermacher
+der Metzger
+der Kartograf
+der Geistliche
+der Bauer
+der Fischer
+Der Pfeilmacher
+der Gerber
+die Bibliothekar
+der Maurer
+der Nichtnutz
+die Dorfbewohner
+Der Schäfer
+der Grobschmied
+der Waffenschmied
+der Diener
+der Fahrender Händler
+der Wärter
+die Hexe
+der Verdorrer
+das Witherskelett
+der Witherschädel
+der Wolf
+der Zoglin
+der Zombie
+das Zombiepferd
+die Zombiedorfbewohner
+der zombifizierte Piglin
+das Objekt des Typs %s kann nicht erzeugt werden
+der Überfall
+die Niederlage
+der Verbleibende Räuber: %s
+die Siege
+die Schatzkarte
+die Nr. %S
+die (Stufe %s/%s)
+das Gesperrt
+die Wald-Entdeckerkarte
+die Ozean-Entdeckerkarte
+der Maßstab 1:%s
+die Unbekannte Karte
+den Bodenlosen Abgrund
+das Klassische Flachland
+die Wüste
+die Oberwelt
+der Redstone, fertig, los
+das Schneekönigreich
+Die Leere
+Der Traum des Bergarbeiters
+die Wasserwelt
+Die ???
+Der Abenteuermodus
+der Dein Spielmodus wurde zu %s geändert
+der Kreativmodus
+der Hardcore-Modus!
+den Zuschauermodus
+Der Überlebensmodus
+die Fortschritte bekannt geben
+die Block‐Explosionsausbeute verschwindet
+the Einiges von der Ausbeute von Blöcken, die durch Explosionen aufgrund von Blockinteraktionen zerstört werden, geht dabei verloren.
+der Chat
+die Ausbeute
+die Verschiedenen
+die Kreaturen
+der Spieler
+die Generierung
+Die Weltaktualisierungen
+die Befehlsblockausgabe anzeigen
+die Befehlsänderungs‐Blockgrenze
+the Anzahl der Blöcke, die mit einem Befehl wie „fill“ oder „clone“ gleichzeitig geändert werden können.
+die Elytrenflugüberprüfung deaktivieren
+die Überfälle deaktivieren
+das Voranschreiten der Tageszeit
+die Objektausbeute gefallen lassen
+the Kontrolliert das Fallenlassen der Ausbeute von Loren (einschließlich Inventaren), Rahmen, Booten usw.
+die Feuerausbreitung
+der Sofortige Wiedereinstieg
+das Phantom erzeugen
+die Rezepte zur Herstellung benötigt
+Wenn aktiviert, können Spieler nur bereits freigeschaltete Rezepte nutzen
+die Kreaturenausbeute gefallen lassen
+the Kontrolliert das Fallenlassen der Ausbeute von Kreaturen, einschließlich Erfahrungskugeln
+die Kreaturen erzeugen
+Die Manche Objekte können eigene Regeln haben
+die Plünderer‐Patrouillen erzeugen
+die Blockausbeute gefallen lassen
+the Kontrolliert das Fallenlassen der Ausbeute von Blöcken, einschließlich Erfahrungskugeln
+der Fahrende Händler erzeugen
+die Rankenausbreitung
+the Steuert, ob sich Ranken zufällig auf benachbarte Blöcke ausbreiten können. Wirkt sich nicht auf andere Rankenarten wie Trauerranken, Zwirbelranken usw. aus.
+der Wärter erzeugen
+der Wetterwechsel
+der Schaden durch Ertrinken
+der Fallschaden
+der Feuerschaden
+den Gestorbenen Spielern vergeben
+the Verärgerte neutrale Kreaturen hören auf, wütend zu sein, wenn der Zielspieler in der Nähe stirbt.
+der Erfrierungsschaden
+die Weltweiten Geräuschereignisse
+das Wenn bestimmte Spielereignisse eintreten, z. B. das Auftauchen eines Endgegners, ist das Geräusch überall zu hören.
+das Inventar nach dem Tod behalten
+die Lava‐Erneuerbarkeit
+the Wenn fließende Lava auf zwei Seiten von Lavaquellen umgeben ist, WIRD SIE zu Einer Quelle.
+die Administratorbefehle protokollieren
+die Obergrenze für Befehlsketten
+the Findet Anwendung bei Befehlsblöcken und Funktionen
+die Obergrenze für Objektgedränge
+die Kreatur‐Explosionsausbeute verschwindet
+the Einiges von der Ausbeute von Blöcken, sterben durch von Kreaturen verursachte Explosionen zerstört Werden, geht dabei verloren.
+Die Zerstörung durch Kreaturen
+die Gesundheit regenerieren
+das Schlafzitat
+the Der Anteil an Spielern, die im Bett liegen müssen, um die Nacht durchzuschlafen.
+die Häufigkeit von Zufallsereignissen
+die Debug‐Infos reduziert
+the Begrenzt sterben Inhalte der Debug-Anzeige
+die Befehlsausgabe anzeigen
+die Todesmeldungen anzeigen
+die Schneedeckenhöhe
+the Wenn es schneit, entsteht auf dem Boden eine Schneedecke, sterben höchstes this Anzahl von Schichten erreicht.
+der Radius des Wiedereinstiegsbereichs
+die Zuschauer generieren Landschaft
+die TNT‐Explosionsausbeute verschwindet
+the Einiges von der Ausbeute von Blöcken, sterben durch TNT‐Explosionen zerstört Werden, geht dabei verloren.
+die Allgemeine Verärgerung
+die verärgerten neutralen Kreaturen greifen jeden Spieler in der Nähe an – nicht nur den Spieler, der sie verärgert hat. Funktioniert am besten, wenn forgetDeadPlayers deaktiviert ist.
+die Wasser‐Erneuerbarkeit
+the Wenn fließendes Wasser auf zwei Seiten von Wasserquellen umgeben ist, WIRD es zu einer Quelle.
+die Benutzerdefiniert
+die Angepasst (alt)
+das ZERKLÜFTET
+der Hinweis: Nur zum Spaß! Erfordert einen starken Computer.
+den Debug-Modus
+das Flachland
+das Große Biom
+Der Standard
+das einzelne Biom
+die Höhlen
+die Schwebenden Inseln
+das Problem beim Senden deiner Meldung
+die Drogen oder Alkohol
+the Jemand ermutigt andere, sich an rechtswidrigen drogenbezogenen Aktivitäten zu beteiligen, oder regt Minderjährige zum Alkoholgenuss an.
+die Sexuelle Ausbeutung oder Missbrauch von Kindern
+der Jemand spricht über anstößiges Verhalten gegenüber Kindern oder fördert es auf andere Weise.
+die Verleumdung, Identitätsdiebstahl oder Falschinformationen
+the Jemand schädigt den Ruf einer anderen Person, Gibt Sich Für Jemanden Aus, Der Er Nicht Ist, Oder Gibt Falschinformationen Weiter, Um Andere Auszunutzen Oder In Die Irre Zu Führen.
+die Beschreibung:
+die Falschmeldung
+die Belästigung oder Mobbing
+the Jemand demütigt, attackiert oder schikaniert dich oder eine andere Person. Dies gilt auch, wenn jemand wiederholt, mit dir oder einer anderen Person ungefragt in Verbindung tritt oder versucht, persönliche Privatinformationen über dich oder eine andere Person ungefragt zu veröffentlichen („Doxen“).
+die Hassrede
+the Jemand greift dich oder einen anderen Spieler aufgrund von Merkmalen seiner Identität wie Religion, Ethnie oder Sexualität an.
+the Drohender Schaden – Drohung, anderen Schaden zuzufügen
+the Jemand droht damit, dir oder jemand anderem im echten Leben Schaden zuzufügen.
+die %s: %s
+die Intime Bilder ohne Einverständnis
+Der Jemand spricht über private und intime Bilder, gibt sie weiter oder macht sie auf andere Weise zugänglich.
+der Drohender Schaden – Selbstverletzung oder Selbstmord
+the Jemand droht, sich selbst im echten Leben zu treffen, oder spricht davon, das zu tun.
+Terrorismus oder gewalttätiger Extremismus
+the Jemand spricht über Terrorismus oder gewalttätigen Extremismus aus politischen, religiösen, ideologischen oder anderen Gründen, fördert ihn oder droht damit, ihn zu verüben.
+die Meldekategorie auswählen
+the Beim Senden deiner Meldung ist ein Fehler aufgetreten:
+,%S'
+the Beim Senden deiner Meldung ist ein unerwarteter Fehler aufgetreten.
+the Beim Senden deiner Meldung ist ein unerwarteter HTTP-Fehler aufgetreten.
+die Beim Senden deiner Meldung wurden fehlerhafte Nutzdaten festgestellt.
+Der Missbrauchsmeldedienst kann nicht erreicht werden. Bitte stellen Sie sicher, dass Sie mit dem Internet verbunden sind, und versuchen Sie es erneut.
+die Deine Meldung wird gesendet …
+die Meldung gesendet
+die Bestätigen
+die Fortschritte
+die Alle
+der Zurück
+die %s
+
+%S
+
+Erfahre mehr unter folgendem Link: %s
+the Dein Konto ist dauerhaft gesperrt, was bedeutet, dass du weder online spielen noch Realms beitreten kannst.
+the Wir haben kürzlich eine schlechte Meldung über das Verhalten von Ihrem Konto erhalten. Unsere Moderatoren haben deinen Fall nun überprüft und als %s erkannt, was gegen die Minecraft‐Community‐Standards verstoßen.
+der Code: %s
+der Code: %s – %s
+the %s Bis dahin kannst du weder online spielen noch Realms beitreten.
+das Dein Konto ist vorübergehend gesperrt und wird in %s wieder aktiviert.
+the Wir haben kürzlich eine schlechte Meldung über das Verhalten von Ihrem Konto erhalten. Unsere Moderatoren haben deinen Fall nun überprüft und festgestellt, dass er gegen die Minecraft‐Community‐Standards verstößt.
+the Identitätsdiebstahl oder Verbreitung von Informationen, um andere zu täuschen oder zu betrügen
+die Erwähnung rechtswidriger Drogen
+die Darstellungen von exzessiver Gewalt oder blutigen Szenen aus dem wirklichen Leben
+die Übermäßig viele falsche oder ungenaue Meldungen
+die Betrügerische Aneignung oder Verwertung von Inhalten
+die Verletzung der Gemeinschaftsnormen
+die Beleidigende Sprache, die in gezielter Weise verwendet wurde
+Hassrede oder Diskriminierung
+die Erwähnung von Hassgruppen, terroristischen Vereinigungen oder gefährlichen Persönlichkeiten
+die Absicht, Personen oder Eigentum im wirklichen Leben zu schädigen
+die Darstellung von anzüglichem oder pornografischem Material
+die Themen oder Inhalte mit sexuellem Bezug
+der Spam oder Werbung
+das Konto dauerhaft gesperrt
+das Konto vorübergehend gesperrt
+das Abbrechen
+die Anmerkungen
+the Die Angabe von Notebooks WIRD UNS HELFEN, EINE RICHTIGE ENTSCHEIDUNG ZU TREFFEN.
+Wenn du die Seite verlässt, gehen diese Meldung und deine Kommentare verloren.
+Bist du sicher, dass du sie verlassen willst?
+the Verlassen und Meldung verwerfen
+der Als Entwurf speichern
+die Bearbeitung fort
+die Meldung und Kommentare verwerfen?
+the Möchtest du sterben vorhandene Meldung weiter bearbeiten, oder sie verwerfen und Eine neue Meldung erstellen?
+das Werfen
+die Bearbeitung fort
+the Möchtest du ihn weiter bearbeiten oder verwerfen?
+the Du hast einen Entwurf einer Chatmeldung, der verloren geht, wenn du das Spiel beendest
+den Entwurf der Chatmeldung bearbeiten?
+das Bitte beschreibe, was passiert ist:
+Warum meldest du das?
+die Erfahre mehr über das Melden
+the Wir haben deine Meldung erfolgreich erhalten. Danke!
+
+Unser Team wird sie so schnell wie möglich überprüfen.
+die Zu meldende Chatnachrichten auswählen
+die Meldekategorie auswählen
+die %s Chatnachricht(en) zum Melden ausgewählt
+die Meldung senden
+die Bitte kürze den Kommentar
+die Bitte wählen Sie eine Meldekategorie
+die Bitte wählen Sie mindestens eine Chatnachricht zum Melden aus
+the Du versuchst, zu viele Nachrichten in die Meldung aufzunehmen
+die Spieler melden
+Das Diese Auswahl umgebende Nachrichten werden aufgenommen, um zusätzlichen Kontext zu bieten.
+die %s Nachricht(en) versteckt
+die %s %s
+das %s ist dem Chat beigetreten
+der %s sagte: %s ähm %s
+die %s/%s Nachricht(en) ausgewählt
+die Zu meldende Chatnachrichten auswählen
+das Fortfahren
+die Bühne)
+das Fertig
+der Runner
+der Typ: %s
+die %s Stunde(n)
+die %s Minute(n)
+die %s/%s
+die %s-Schaltfläche
+das %s-Eingabefeld: %s
+der %s‐Schieberegler
+der %s-Reiter
+die Nein
+das Kein
+das Okay
+das Fortfahren
+der Rechtsklick für mehr
+die suche …
+Alles wird angezeigt
+das Schmelzbares wird angezeigt
+das herstellbare wird angezeigt
+das Erhitzbare wird angezeigt
+das Räucherbares wird angezeigt
+das Mit Microsoft-Konto verwalten
+die Keine Spieler im Chat blockiert
+die Keine Spieler im Chat ausgeblendet
+die Chatnachrichten von %s werden ausgeblendet
+den Im Chat ausblenden
+die Nachrichten von %s ausblenden
+den Spieler %s melden
+die Nachrichten von %s anzeigen
+die Melden
+the Keinen Spieler mit diesem Namen gefunden
+die suche …
+der %s – %s Spieler
+der %s – %s Spieler
+im Chat anzeigen
+die Chatnachrichten von %s werden angezeigt
+die Blockiert
+die Blockiert – Offline
+die Versteckt
+das Ausgeblendet – Offline
+das Offline
+die Alle
+die Blockiert
+die Versteckt
+die Sozialen Interaktionen
+die Nachrichten ausblenden
+die Spieler melden
+Der Meldedienst ist nicht verfügbar
+die Keine meldebaren Nachrichten von Spieler %s
+the Dieser Spieler kann nicht gemeldet werden, da seine Chatnachrichten auf diesem Server nicht überprüft werden können
+die Nachrichten anzeigen
+die Statistiken
+das Zurück zur Serverauswahl
+das Zurück zum Hauptmenü
+der Hoch
+das Ja
+die Hängeschildbeschriftung bearbeiten
+das Bewundern
+die Rufen
+die Träume
+die Fühlen
+das Nachdenken
+das Suchen
+die Singen
+die Sehn
+den Gegenstand zerstören
+die Schnellzugriffsleiste mit %1$s+%2$s speichern
+die Schnellzugriffsleiste gespeichert (mit %1$s+%2$s wiederherstellen)
+die Kann-abbauen:
+die Kann platziert werden auf:
+die Farbe: %s
+der deaktivierte Gegenstand
+die Haltbarkeit: %s/%s
+das Gefärbt
+der Akazienholzboot
+der Akazienholztruhenboot
+das Hilfsgeist-Spawn-Ei
+die Amethystscherbe
+der Apfel
+der Rüstungsständer
+der Pfeil
+der Axoloteimer
+das Axolotl-Spawn-Ei
+die Ofenkartoffel
+das Bambus-Truhenfloß
+das Bambusfloß
+das Fledermaus-Spawn-Ei
+das Bienen-Spawn-Ei
+das Rohe Rindfleisch
+die Rote Bete
+die Rote-Bete-Samen
+der Borschtsch
+der Birkenholzboot
+der Birkenholztruhenboot
+der Schwarze Farbstoff
+der Lohenstaub
+die Lohenrute
+das Lohen-Spawn-Ei
+der Blaue Farbstoff
+der Knochen
+das Knochenmehl
+das Buch
+der Bogen
+die Schüssel
+das Brot
+der Braustand
+der Ziegel
+der Braune Farbstoff
+der Pinsel
+der Eimer
+das Bündel
+die %s/%s
+das Dromedar-Spawn-Ei
+die Karotte
+die Karottenrute
+das Katzen-Spawn-Ei
+der Kessel
+das Höhlenspinnen-Spawn-Ei
+die Kettenstiefel
+das Kettenhemd
+die Kettenhaube
+die Kettenhose
+die Holzkohle
+der Kirschholzboot
+das Kirschholztruhenboot
+die Güterlore
+das Rohe Hühnchen
+das Huhn-Spawn-Ei
+die Chorusfrucht
+die Tonklumpen
+die Uhr
+die Kohle
+die Kakaobohnen
+der Rohe Kabeljau
+der Kabeljaueimer
+das Kabeljau-Spawn-Ei
+die Befehlsblocklore
+der Kompass
+das Steak
+das Gebratene Hühnchen
+der Gebratene Kabeljau
+das gebratene Hammelfleisch
+das Gebratene Schweinefleisch
+das gebratene Kaninchen
+der Gebratene Lachs
+die Keks
+die Kupferbären
+das Kuh-Spawn-Ei
+die Bannervorlage
+Der Creeper
+das Creeper-Spawn-Ei
+die Armbrust
+das Geschoss:
+der Türkise Farbstoff
+der Schwarzeichenholzboot
+der Schwarzeichenholztruhenboot
+der Debug-Stab
+das %s hat keine Blockzustände
+das ‚%s‘ ausgewählt (%s)
+das ‚%s‘ ist jetzt %s
+der Diamant
+die Diamantaxt
+die Diamantstiefel
+der Diamantharnisch
+der Diamanthelm
+die Diamanthacke
+der Diamantener Rossharnisch
+der Diamantbeinschutz
+die Diamantspitzhacke
+die Diamantschaufel
+das Diamantschwert
+das Plattenbruchstück
+die Schallplatte - 5
+das Delfin-Spawn-Ei
+das Esel-Spawn-Ei
+das Drachenatem
+der Getrocknete Seetang
+das Ertrunkenen-Spawn-Ei
+die Echoscherbe
+das Ei
+das Große-Wächter-Spawn-Ei
+die Elytren
+der Smaragd
+Das Verzauberte Buch
+der Verzauberter goldener Apfel
+der Enderkristall
+das Enderdrachen-Spawn-Ei
+die Enderauge
+die Enderperle
+das Enderman-Spawn-Ei
+das Endermiten-Spawn-Ei
+das Magier-Spawn-Ei
+das Erfahrungsfläschchen
+die Feder
+die fermentierte Spinnenauge
+die Karte
+die Feuerkugel
+die Feuerwerksrakete
+die Flugdauer:
+der Feuerwerksstern
+der Schwarz
+das Blau
+der Braune
+die Benutzerdefiniert
+die Türkischen
+der Übergang zu
+das Funkeln
+das Grau
+das Grüne
+das Hellblau
+das Hellgrau
+das Hellgrün
+das Magenta
+Die Orange
+die Rose
+die Violette
+die Fäulnis
+die unbekannte Form
+die Explosion
+die Creeperförmig
+die Große Kugel
+Die Kleine Kugel
+die Sternförmig
+die Schweif
+die Weiße
+das Gelbe
+der Engel
+der Feuerstein
+das Feuerzeug
+die Bannervorlage
+die Blume
+Der Blumentopf
+das Fuchs-Spawn-Ei
+das Frosch-Spawn-Ei
+die Ofenkunde
+das Ghast-Spawn-Ei
+die Ghast-Träne
+die Glasflasche
+die glitzernde Melonenscheibe
+die Bannervorlage
+der Globus
+die Leuchtbeeren
+der Leuchttintenbeutel
+der Leuchtrahmen
+der Leuchttintenfisch-Spawn-Ei
+Der Leuchtsteinstaub
+das Bockhorn
+das Ziegen-Spawn-Ei
+die Goldbarren
+die Goldklumpen
+Der goldene Apfel
+die Goldaxt
+die Goldstiefel
+die Goldene Karotte
+der Goldharnisch
+der Goldhelm
+die Goldhacke
+der Goldene Rossharnisch
+der Goldbeinschutz
+die Goldspitzhacke
+die Goldschaufel
+das Goldschwert
+der Graue Farbstoff
+der Grüne Farbstoff
+das Wächter-Spawn-Ei
+das Schwarzpulver
+das Herz des Meeres
+das Hoglin-Spawn-Ei
+die Honigflasche
+die Honigwabe
+die Trichterlore
+das Pferde-Spawn-Ei
+das Wüstenzombie-Spawn-Ei
+der Tintenbeutel
+die Eisenaxt
+die Eisenstiefel
+der Eisenharnisch
+das Eisengolem-Spawn-Ei
+der Eisenhelm
+die Eisenhacke
+der Eiserne Roßharnisch
+die Eisenbären
+der Eisenbeinschutz
+die Eisenklumpen
+die Eisenspitzhacke
+die Eisenschaufel
+das Eisenschwert
+der Rahmen
+der Tropenholzboot
+das Tropenholztruhenboot
+das Buch des Wissens
+der Lapislazuli
+der Lavaeimer
+die Leine
+das Leder
+die Lederstiefel
+die Lederjacke
+die Lederkappe
+der Lederner Rossharnisch
+die Lederhose
+Hellblauer Farbstoff
+der Hellgraue Farbstoff
+Hellgrüner Farbstoff
+der Verweiltrank
+der Seltsamer Verweiltrank
+der nicht braubare Verweiltrank
+den Verweiltrank der Feuerresistenz
+der Verweiltrank des Schadens
+der Verweiltrank der Heilung
+der Verweiltrank der Unsichtbarkeit
+der Verweiltrank der Sprungkraft
+der Verweiltrank der Schwebekraft
+den Verweiltrank des Glücks
+der Gewöhnliche Verweiltrank
+der Verweiltrank der Nachtsicht
+der Verweiltrank der Vergiftung
+der Verweiltrank der Regeneration
+der Verweiltrank des sanften Falls
+der Verweiltrank der Langsamkeit
+den Verweiltrank der Stärke
+den Verweiltrank der Schnelligkeit
+der Dickflüssiger Verweiltrank
+der Verweiltrank des Schildkrötenmeisters
+die Verweilende Wasserflasche
+der Verweiltrank der Unterwasseratmung
+der Verweiltrank der Schwäche
+das Lama-Spawn-Ei
+Der Leitstein-Kompass
+der Magenta-Farbstoff
+die Magmacreme
+das Magmawürfel-Spawn-Ei
+der Mangrovenholzboot
+der Mangrovenholztruhenboot
+die Leere Karte
+die Melonenkerne
+die Melonenscheibe
+der Milcheimer
+die Überlieferung
+die Bannervorlage
+das Mojang-Logo
+das Mooshroom-Spawn-Ei
+das Maultier-Spawn-Ei
+die Pilzsuppe
+die Schallplatte
+der C418-11
+die Schallplatte
+der C418-13
+die Schallplatte
+der Samuel Åberg - 5
+die Schallplatte
+die C418 - Blöcke
+die Schallplatte
+der C418 - Kat
+die Schallplatte
+der C418 - zwitschern
+die Schallplatte
+der C418 - weit
+die Schallplatte
+das C418 - Einkaufszentrum
+die Schallplatte
+der C418 - mellohi
+die Schallplatte
+die Lena Raine - andere Seite
+die Schallplatte
+die Lena Raine - Pigstep
+die Schallplatte
+der C418 - stal
+die Schallplatte
+der C418 - Strad
+die Schallplatte
+der C418 - warte
+die Schallplatte
+die C418 - Station
+das Rohe Hammelfleisch
+das Namensschild
+die Nautilusschale
+der Netherziegel
+der Netherstern
+die Netherwarze
+die Nethertaxt
+die Netheritstiefel
+das Netheritharnisch
+der Netherithelm
+die Netherithacke
+die Netheritkarren
+der Netheritbeinschutz
+die Netheritspitzhacke
+die Netheritplatten
+die Netheritschaufel
+das Netheritschwert
+der Eichenholzboot
+das Eichenholztruhenboot
+das Ozelot-Spawn-Ei
+der orangefarbene Farbstoff
+das Gemälde
+das Panda-Spawn-Ei
+das Papier
+das Papageien-Spawn-Ei
+die Phantomhaut
+das Phantom-Spawn-Ei
+das Schweine-Spawn-Ei
+die Bannervorlage
+die Schnauze
+das Piglin-Barbaren-Spawn-Ei
+das Piglin-Spawn-Ei
+das Plünderer-Spawn-Ei
+der Rosafarbstoff
+die Giftige Kartoffel
+das Eisbären-Spawn-Ei
+die geplatzte Chorusfrucht
+das Rohe Schweinefleisch
+die Kartoffel
+der Trank
+Der Seltsamer Trank
+Der nicht braubare Trank
+Der Trank der Feuerresistenz
+der Trank des Schadens
+Der Trank der Heilung
+Der Trank der Unsichtbarkeit
+der Trank der Sprungkraft
+der Trank der Schwebekraft
+Der Trank des Glücks
+der Gewöhnliche Trank
+Der Trank der Nachtsicht
+Der Trank der Vergiftung
+der Trank der Regeneration
+der Trank des sanften Falls
+Der Trank der Langsamkeit
+Der Trank der Stärke
+Der Trank der Schnelligkeit
+der Dickflüssiger Trank
+der Trank des Schildkrötenmeisters
+die Wasserflasche
+der Trank der Unterwasseratmung
+der Trank der Schwäche
+die Schützen-Töpferscherbe
+die Gebärden-Töpferscherbe
+die Juwelen-Töpferscherbe
+die Schädel-Töpferscherbe
+der Pulverschneeeimer
+die Prismakristalle
+die Prismascherbe
+der Kugelfisch
+der Kugelfischeimer
+das Kugelfisch-Spawn-Ei
+der Kürbiskuchen
+die Kürbiskerne
+der Violetter Farbstoff
+der Netherquarz
+das Rohe Kaninchen
+die Hasenpfote
+das Kaninchenfell
+das Kaninchen-Spawn-Ei
+das Kaninchenragout
+das Verwüster-Spawn-Ei
+der Rohkupfer
+das Rohgold
+die Roheisen
+Der Bergungskompass
+der Rote Farbstoff
+der Redstone-Staub
+das Verrottete Fleisch
+der Sattel
+der Rohe Lachs
+der Lachseimer
+das Lachs-Spawn-Ei
+der Hornschild
+die Schere
+das Schafs-Spawn-Ei
+das Schild
+das Schwarze Schild
+das Blaue Schild
+das Braune Schild
+das Türkiser Schild
+das Graue Schild
+das Grüne Schild
+das Hellblaue Schild
+das Hellgraue Schild
+das Hellgrüne Schild
+das Magenta-Schild
+das Orange Schild
+die Rosa Schild
+das Violette Schild
+das Rote Schild
+das Weiße Schild
+das Gelbe Schild
+die Shulker-Schale
+das Shulker-Spawn-Ei
+das Schild
+das Silberfischchen-Spawn-Ei
+das Skelettpferde-Spawn-Ei
+das Skelett-Spawn-Ei
+die Bannervorlage
+der Schädel
+der Schleimball
+das Schleim-Spawn-Ei
+die Schmiedevorlage
+das Anwendbar auf:
+die Lege hier einen Barren oder Kristall hinein
+die Rüstung
+die Lege hier ein Rüstungsteil hinein
+die Barren & Kristalle
+die Werkstoffe:
+the Lege hier einen Netheritbarren hinein
+die Diamantausrüstung
+die Lege hier ein Rüstungsteil, Werkzeug oder Schwert aus Diamant hinein
+die Netheritkarren
+die Aufwertung:
+das Schnüffler-Spawn-Ei
+das Schneegolem-Spawn-Ei
+der Schneeball
+der Spektralpfeil
+die Spinnenauge
+das Spinnen-Spawn-Ei
+der Wurfrank
+der Seltsamer Wurftrank
+der Nicht braubare Wurftrank
+Der Wurfrank der Feuerresistenz
+den Wurftrank des Schadens
+Der Wurfrank der Heilung
+Der Wurfrank der Unsichtbarkeit
+der Wurftrank der Sprungkraft
+der Wurftrank der Schwebekraft
+den Wurftrank des Glücks
+den Gewöhnlichen Wurftrank
+der Wurftrank der Nachtsicht
+den Wurfrank der Vergiftung
+den Wurfrank der Regeneration
+der Wurftrank des sanften Falls
+den Wurfrank der Langsamkeit
+den Wurfrank der Stärke
+den Wurftrank der Schnelligkeit
+der Dickflüssiger Wurftrank
+der Wurftrank des Schildkrötenmeisters
+die Werfbare Wasserflasche
+der Wurftrank der Unterwasseratmung
+der Wurfrank der Schwäche
+der Fichtenholzboot
+der Fichtenholztruhenboot
+das Fernrohr
+das Tintenfisch-Spawn-Ei
+die Aktie
+die Steinaxt
+die Steinhacke
+die Steinspitzhacke
+die Steinschaufel
+das Steinschwert
+das Eiswanderer-Spawn-Ei
+das Schreiter-Spawn-Ei
+der Faden
+der Zucker
+die Seltsam Suppe
+die Süßbeeren
+der Kaulquappeneimer
+das Kaulquappen-Spawn-Ei
+der Getränketer Pfeil
+der Getränketer Pfeil
+der nicht herstellbare getränkte Pfeil
+Der Pfeil der Feuerresistenz
+Der Pfeil des Schadens
+Der Pfeil der Heilung
+der Pfeil der Unsichtbarkeit
+der Pfeil der Sprungkraft
+der Pfeil der Schwebekraft
+Der Pfeil des Glücks
+der Getränketer Pfeil
+der Pfeil der Nachtsicht
+der Pfeil der Vergiftung
+Der Pfeil der Regeneration
+der Pfeil des sanften Wasserfalls
+Der Pfeil der Langsamkeit
+Der Pfeil der Stärke
+der Pfeil der Schnelligkeit
+der Getränketer Pfeil
+der Pfeil des Schildkrötenmeisters
+der Nasser Pfeil
+der Pfeil der Unterwasseratmung
+der Pfeil der Schwäche
+die TNT-Lore
+die Fackelliliensamen
+das Totem der Unsterblichkeit
+das Händlerlama-Spawn-Ei
+der Dreizack
+der Tropenfisch
+der Tropenfischeimer
+das Tropenfisch-Spawn-Ei
+der Schildkrötenpanzer
+das Schildkröten-Spawn-Ei
+das Plagegeister-Spawn-Ei
+das Dorfbewohner-Spawn-Ei
+das Diener-Spawn-Ei
+das Fahrender-Händler-Spawn-Ei
+das Wärter-Spawn-Ei
+die Wirrpilzrute
+Der Wassereimer
+das Weizen
+der Weizenkörner
+der Weiße Farbstoff
+das Hexen-Spawn-Ei
+das Witherskelett-Spawn-Ei
+das Wither-Spawn-Ei
+das Wolfs-Spawn-Ei
+die Holzaxt
+Die Holzhacke
+die Holzspitzhacke
+die Holzschaufel
+das Holzschwert
+das Buch und Feder
+das Beschriebene Buch
+der Gelbe Farbstoff
+das Zoglin-Spawn-Ei
+das Zombiepferde-Spawn-Ei
+das Zombie-Spawn-Ei
+das Zombiedorfbewohner-Spawn-Ei
+das Zombifizierter-Piglin-Spawn-Ei
+der Am Körper:
+An den Füßen:
+Auf dem Kopf:
+An den Beinen:
+die In der Haupthand:
+das In der Zweithand:
+die NBT: %s Eigenschaft(en)
+die Unzerstörbar
+die Baublöcke
+die Farbigen Blöcke
+der Kampf
+die Nahrungsmittel & Tränke
+die Werkstoffe
+die Nahrungsmittel & Tränke
+die Gebrauchsblöcke
+die gespeicherten Schnellzugriffsleisten
+die Werkstoffe
+das Überlebensinventar
+die Naturblöcke
+das Operatorhilfsmittel
+der Rotstein
+die Suche
+das Spawn-Eier
+die Werkzeuge & Hilfsmittel
+der Unbekannter Gegenstandsmodifikator ‚%s‘
+das wird zu:
+das Generieren
+die Ausgerichtet
+die Drehstange
+die Verbindung:
+die Verbunde behalten
+die Ebenen: %s
+der Name:
+die Bezugsquelle:
+der Zielname:
+die Fortschritte
+die Angreifen/Abbauen
+die Rückwärts
+der Kreativmodus
+die Spielmechanik
+das Inventar
+die Verschiedenen
+die Bewegung
+der Mehrspieler
+die Spielsteuerung
+den Chat öffnen
+die Befehlszeile öffnen
+der Gegenstand gefallen lassen
+der Vorwärts
+das Vollbild wechseln
+der Schnellzugriff 1
+der Schnellzugriff 2
+der Schnellzugriff 3
+der Schnellzugriff 4
+der Schnellzugriff 5
+der Schnellzugriff 6
+der Schnellzugriff 7
+der Schnellzugriff 8
+der Schnellzugriff 9
+das Inventar öffnen/schließen
+das Springen
+die ~
+Die \
+die Rücktaste
+der Feststellgeschmack
+Die ,
+die Entf
+die Unten
+das Ende
+die Eingabe
+das =
+die Esc
+die F1
+die F10
+die F11
+die F12
+die F13
+die F14
+die F15
+die F16
+die F17
+die F18
+die F19
+die F2
+die F20
+die F21
+die F22
+die F23
+die F24
+die F25
+die F3
+die F4
+die F5
+die F6
+die F7
+die F8
+die F9
+das `
+die Pos1
+die Einfg
+die Zahl 0
+die Nummer 1
+die Nummer 2
+die Nummer 3
+die Nummer 4
+die Nummer 5
+die Nummer 6
+die Nummer 7
+die Zahl 8
+die Zahl 9
+die Zahl +
+die Nummer,
+die Nummer /
+die Num eingeben
+die Zahl =
+die Nummer *
+die Nummer -
+die Links
+der Alt
+Die [
+die Strg-Links
+die Umschalt-Links
+die Meta-Links
+das Menü
+Die -
+die Num-Sperre
+das Bild ab
+das Bild auf
+die Pause
+Die .
+der Druck
+die Rechte
+die Altgr
+Die ]
+die Strg rechts
+das Umschaltrecht
+die Meta rechts
+die Rollen
+Die ;
+Die /
+die Leertaste
+die Registerkarte
+das Nicht belegt
+der Oben
+Welt 1
+Welt 2
+die Links
+die Schnellzugriffsleiste laden
+die Maustaste %1$s
+der Linksklick
+der Mittelklick
+der Rechtsklick
+den Block auswählen
+die Spieler aufhören
+die Rechte
+die Schnellzugriffsleiste speichern
+den Screenshot aufnehmen
+das Kameraverhalten wechseln
+die Schleichen
+das Fenster für soziale Interaktionen
+der Spieler hervorheben (Zuschauer)
+der Sprint
+der Gegenstand mit Zweithand tauschen
+die Perspektive wechseln
+das Benutzen/Platzieren
+die Einstellungen für andere Spieler
+die Portnummer
+der Kein gültiger Port.
+Lass das Eingabefeld leer oder gib eine Nummer zwischen 1024 und 65535 ein.
+der Kein gültiger Port.
+Lass das Eingabefeld leer oder gib eine Nummer zwischen %s und %s ein.
+der Port nicht verfügbar.
+Lass das Eingabefeld leer oder gib eine andere Nummer zwischen 1024 und 65535 ein.
+der Port nicht verfügbar.
+Lass das Eingabefeld leer oder gib eine andere Nummer zwischen %s und %s ein.
+die Suche nach Spielen im lokalen Netzwerk
+die LAN-Welt starten
+die LAN-Welt
+die deu_X
+das Deutsch (Lernen)
+das Deutschland (Lernen)
+das Buch nehmen
+die Erfahre mehr über Mojang und Datenschutzgesetze
+the Mojang wendet ein bestimmtes Verfahren an, um Kinder und deren Privatsphäre zu schützen. So werden unter anderem das „Gesetz zum Schutz der Privatsphäre von Kindern im Internet“ (COPPA) und die Datenschutz‐Grundverordnung (DSGVO) geltend gemacht.
+
+Möglicherweise benötigst du die Zustimmung deiner Eltern, um auf dein Realms‐Konto zuzugreifen.
+
+Wenn du ein älteres Minecraft-Konto hast (du meldest dich mit deinem Benutzernamen an), musst du dieses in ein Mojang-Konto umwandeln, um auf Realms zugreifen zu können.
+das Konto aktualisieren
+the Keine Aktivität in dem/den letzten %s Tag(en)
+die Spieleraktivität
+die Aktuellste herunterladen
+das Zurücksetzen
+die Wiederherstellung
+die Welt hochladen
+die Änderungen
+die Welt generieren
+the This Realm hat derzeit keine Sicherungen.
+das Dein Reich wiederherstellen
+das Herunterladen
+das Heruntergeladen
+the Bitte setze sie zurück oder wähle eine andere Welt aus.
+the Du kannst die Welt auch für den Einzelspielermodus herunterladen.
+the Dieses Minispiel wird nicht mehr unterstützt
+the Bitte warte auf das Zurücksetzen der Welt durch den Realm-Besitzer
+die Diese Welt ist veraltet
+das Spielen
+das Zurücksetzen
+die Deine aktuelle Welt wird nicht mehr unterstützt
+der Dein Client ist nicht mit Realms kompatibel.
+the Bitte nutze die neuste Version von Minecraft.
+the Realms ist nicht mit Entwicklungsversionen kompatibel.
+der Inkompatibler Client!
+das Aktuell
+die Spieleraktivitätsanzeige vorübergehend ausgeschaltet
+die Sicherungen
+die Spieleraktivität
+das Reich schließen
+das Löschen
+das Fertig
+die Einstellungen
+die Spieler einladen
+die weiteren Optionen
+das Reich der Offenen
+die Weltoptionen
+der Spieler
+das Zurücksetzen
+die Einstellungen
+das Abonnement
+das Minispiel wechseln
+the Dein Realm wird nicht mehr verfügbar sein.
+Bist du sicher, dass du das tun möchtest?
+die Schließe das Reich …
+die Befehlsblöcke
+das Reich löschen
+das Dein Reich wird endgültig gelöscht
+Bist du sicher, dass du das tun möchtest?
+die Beschreibung des Realms
+der Name der Welt
+the Einige Einstellungen sind deaktiviert, da deine aktuelle Welt eine Abenteuerwelt ist
+the Einige Einstellungen sind deaktiviert, da deine aktuelle Welt eine Erfahrungswelt ist
+the Einige Einstellungen sind deaktiviert, da deine aktuelle Welt eine Inspirationswelt ist
+den Spielmodus erzwingen
+the Du hast %s neue Einladung(en)
+der Name
+das Einladen
+der Normale Spieler
+der Betreiber
+das Entfernen
+the Wenn du dieses Reich verlässt, kannst du es nicht mehr betreten, bis du erneut eingeladen wirst
+Bist du sicher, dass du das tun möchtest?
+der Ort
+der Name des Reiches
+die Öffne das Reich …
+the Es existiert kein Spieler mit diesem Namen
+der Spieler
+der Spieler gegen Spieler (PvP)
+the Deine Welt wird neu generiert und deine aktuelle Welt geht verloren.
+Bist du sicher, dass du das tun möchtest?
+the This World erfordert ein benutzerdefiniertes Ressourcenpaket.
+the Möchtest du es automatisch herunterladen und spielen?
+the Die Welt wird heruntergeladen und deinen zu Einzelspielerwelten hinzugefügt.
+der Möchtest du fortfahren?
+the Deine Welt wird auf den Stand vom ‚%s‘ (%s) zurückgesetzt
+Bist du sicher, dass du das tun möchtest?
+die Einstellungen
+die Welt %s
+das Leere
+the Dein Reich wird auf eine andere Welt gewechselt
+Bist du sicher, dass du das tun möchtest?
+die Zu Welt wechseln
+das Beitreten
+das Zu Minispiel wechseln
+die Tiere erzeugen
+das Monster erzeugen
+die Dorfbewohner erzeugen
+der Einstiegspunktschutz
+the If du this Option ausschaltest, Werden ALLE vorhandenen Objekte dieses Typs ENTFERNT
+the If du this Option ausschaltest, Werden ALLE vorhandenen Objekte dieses Typs, wie Dorfbewohner, ENTFERNT
+die Achtung!
+der Status
+das Etikett
+die Tage
+das Abgelaufene
+das Abonnement verlängern
+der Weniger als ein Tag
+der Monat
+die Monate
+die Automatisch verlängert in
+the Änderungen an deinem Realms‐Abonnement, wie die Verlängerung der Laufzeit oder die Deaktivierung der wiederkehrenden Abrechnung, Werdenerst ab deinem nächsten Abrechnungstermin berücksichtigt.
+der Anfang
+Die Verbleibende Zeit
+die Abonnementdetails
+der Unbekannte
+die Welt erzeugen
+the Diese Welt ist leer, bitte wählen, was zu tun ist
+das Reich einrichten:
+the Bist du sicher, dass du diesen Spieler ausladen möchtest:
+die Welten
+das Anmelden …
+die Verbundenheit mit dem Reich …
+the Konnte nicht mit dem Realm verbinden …
+das Fertig
+die erzeugen
+das Du musst einen Namen eingeben!
+die Welt wird erzeugt …
+das Überspringen
+die Wähle, welche Welt auf dein neues Realm geladen werden soll (optional)
+das Reich wird erzeugt …
+das Herunterladen abgebrochen
+the Die Welt, die du herunterladen willst, ist größer als %s
+the Du wirst diese Welt auf dein Reich nicht wieder hochladen können
+das Herunterladen erledigt
+das Herunterladen
+das Entpacken
+das Herunterladen gescheitert
+das Herunterladen vorbereiten
+die Neueste Welt herunterladen
+die Bitte versuche, Minecraft und ggf. Launcher neu zu starten
+die Ungültige Sitzungs-ID
+der Veralterter Client
+die Nutzungsbedingungen nicht akzeptiert
+das Herunterladelimit erreicht
+das Hochladelimit erreicht
+the Es ist ein Fehler aufgetreten, bitte versuchen Sie es später noch einmal.
+the Realms ist derzeit stark ausgelastet.
+Bitte versuche, dich in ein paar Minuten mit deinem Realm zu verbinden.
+die Schaltfläche
+das Okay
+das Annehmen
+das Ablehnen
+die Keine ausstehenden Einladungen!
+die Neue Einladung(en)!
+die Ausstehenden Einladungen
+das Andere Minispiel auswählen
+the Dies ersetzt deine Welt vorübergehend mit einem Minispiel!
+the Du kannst später ohne Verlust zu deiner ursprünglichen Welt zurückkehren.
+der Bitte triff eine Auswahl
+das Beende-Minispiel …
+the Das Minispiel wird beendet und dein Realm wird wieder hergestellt.
+Bist du sicher, dass du das tun möchtest?
+das Ausgewählte Minispiel:
+die Welt wird gewechselt …
+die Wechseln
+das Starte-Minispiel …
+das Minispiel beenden
+das Ein anderes Minispiel auswählen?
+das Minispiel wechseln
+Realm zu Minispiel wechseln
+die Realms-Neuigkeiten
+die Schliessung
+den Link öffnen
+Bitte suchen Sie den zusätzlichen Link
+Die Abenteuerwelten
+die Erfahrungswelten
+Die Neue Welt
+die Inspirationswelten
+die Welt wird zurückgesetzt …
+der Startwert (Optional)
+Die Weltvorlagen
+das Zurücksetzen
+die Welt hochladen
+the Dies wird die aktuelle Welt deines Realms ersetzen
+der Kaufe ein Reich!
+die Schliessung
+das Geschlossene Reich
+das Reich schließen
+das Einrichten
+das Reich einrichten
+das Reich erstellen
+das Abgelaufene Reich
+das Dein Abo ist abgelaufen
+die Erneuern
+das Abonnieren
+das Dein Probeabo ist abgelaufen
+der Läuft in einem Tag ab
+die Läuft in %s Tagen ab
+die Läuft kahl ab
+das Reich verlassen
+the Diese Welt wird in %s nicht unterstützt
+Das Minispiel:
+the Dieses Minispiel kann nicht mit %s gespielt werden
+der Hinweis:
+das Reich der Offenen
+das Reich der Offenen
+das Spielen
+the Realms ist ein sicherer und einfacher Weg, Minecraft online mit bis zu 10 Freunden gleichzeitig zu spielen. Es unterstützt viele Minispiele und eigene Welten! Nur der Besitzer des Realms muss zahlen.
+das Reich hinzufügen
+das Probier´s aus!
+das Reich erstellen!
+der Herausgeber
+die Auswahl
+die Vorschau
+die Weltvorlage
+die Webseite des Herausgebers
+die Vorlage
+the Die Liste mit den Inhalten dieser Kategorie konnte nicht abgerufen werden.
+Bitte überprüfe deine Internetverbindung oder versuche es später erneut.
+die Autoren: %s
+die Version %s
+die Hoppla, diese Inhaltskategorie scheint aktuell leer zu sein.
+Bitte schau demnächst noch einmal vorbei, oder erwäge,
+wenn du ein Ersteller bist, %s.
+den selbst einen Inhalt einzureichen
+Die Weltvorlagen
+die Minispiele
+Die Weltvorschau
+die Zustimmen
+das Ablehnen
+Ich akzeptiere die Minecraft Realms
+die Nutzungsbedingungen
+die Realms‐Nutzungsbedingungen
+das Möchtest du dein eigenes Reich?
+Klicken Sie hier für mehr Informationen!
+der Hochladen
+der Hochladen abgebrochen
+the Konnte dein Reich nicht schließen, bitte versuche es später noch einmal
+der Hochladen erledigt
+der Hochladen gescheitert! (%S)
+the Welten im Hardcore-Modus können nicht hochgeladen werden!
+die Bereite deine Weltdaten vor
+die Keine Einzelspielerwelten gefunden!
+the Bitte wählen Sie eine Einzelspielerwelt zum Hochladen
+die Welt hochladen
+das ‚%s‘ ist zu groß!
+das Es ist %s. Die maximal zulässige Größe ist %s.
+die Lade ‚%s‘ hoch
+die Überprüfe deine Welt
+Die Welt wird umgewandelt
+die Verbindung trennen
+das Spielmenü
+die Welt wird generiert
+die Landschaft wird generiert
+die Lade dauerhafte Chunks der Dimension %s
+Die Welt wird geladen
+die (modifiziert)
+der Mehrspieler
+die Minecraft-Realms
+die Optionen …
+das Spiel angehalten
+die Demowelt spielen
+die Spieler melden
+der Einstiegsbereich wird vorbereitet: %s %%
+das Spiel beenden
+den Fehler melden
+die Demowelt zurücksetzen
+das Wiederbeleben
+das Zurück zum Spiel
+das Speichern und zurück zum Hauptmenü
+die Chunks werden gespeichert
+die Welt wird gespeichert
+das Feedback geben
+Im LAN öffnen
+der Einzelspieler
+die Wird bearbeitet …
+die aktuelle Händlerstufe
+die Dorfbewohner füllen ihren Warenbestand bis zu zweimal am Tag auf.
+der Neuling
+der Lehrling
+die Gesel
+der Experte
+der Meister
+die nächste Händlerstufe
+die Angebote
+die ↑ ↓
+das ← →
+die |
+die Drücke %1$s, um abzusteigen
+Das Ressourcenpaket wird angewendet
+Die Authentifizierungsserver sind derzeit nicht erreichbar. Bitte versuchen Sie es später erneut!
+die Du wurdest auf diesem Server gesperrt
+Die
+Deine Sperre wird am %s aufgehoben
+die Du wurdest auf diesem Server gesperrt.
+Grund: %s
+Die
+Deine Sperre wird am %s aufgehoben
+die Deine IP‐Adresse wurde auf diesem Server gesperrt.
+Grund: %s
+der Fehler bei der Überprüfung der Chatnachricht
+the Du hast dich von einem anderen Standort aus angemeldet
+Der öffentliche Profilschlüssel ist abgelaufen. Überprüfe, ob deine Systemzeit synchronisiert ist, und versuche, dein Spiel neu zu starten.
+das Fliegen ist auf diesem Server nicht erlaubt
+die Verbindung getrennt
+das Du warst zu lange untätig!
+das Unzulässige Zeichen im Chat
+der Inkompatibler Client! Verwende bitte %s
+the Es wurde versucht, ein ungültiges Objekt anzugreifen
+Der Server hat ein ungültiges Paket gesendet
+die Ungültigen Spielerdaten
+das Ungültiges Paket zur Spielerbewegung empfangen
+die Ungültige Signatur für den öffentlichen Profilschlüssel.
+Versuche, dein Spiel neu zu starten.
+das Ungültige Paket zur Fahrzeugbewegung empfangen
+die Deine IP‐Adresse wurde auf diesem Server gesperrt
+the Ein Operator hat dich vom Server geworfen
+den Unvollständiger Etikettensatz vom Server empfangen.
+Bitte benachrichtige den Serverbetreiber.
+Der Name wird bereits verwendet
+the Du stehst nicht auf der Gästeliste dieses Servers!
+das unverwartete Chatpaket empfangen. Hat sich deine Systemzeit geändert?
+der Inkompatibler Client! Verwende bitte %s
+der Inkompatibler Client! Verwende bitte %s
+Der Server ist voll!
+der Server geschlossen
+Der Anmeldevorgang hat zu lange gedauert
+die Zu viele unbetätigte Chatnachrichten
+die Unerwartete benutzerdefinierte Daten vom Client empfangen
+das Chatpaket mit fehlender oder ungültiger Signatur empfangen.
+der Benutzername konnte nicht überprüft werden!
+die Statistiken werden abgerufen …
+die Landschaft wird geladen …
+der Neuen Server gefunden: %s
+die Chatnachricht konnte nicht zugestellt werden, bitte Protokolldateien des Servers prüfen: %s
+der %s hat das Spiel betreten
+the %s (früher bekannt als %s) hat das Spiel betreten
+der %s hat das Spiel verlassen
+der Spieler online: %s
+the Der Server erfordert ein benutzerdefiniertes Ressourcenpaket
+the This Server erfordert die Verwendung eines benutzerdefinierten Ressourcenpakets.
+Wenn du dieses benutzerdefinierte Ressourcenpaket ablehnst, wirst du von diesem Server getrennt.
+Die Sozialen Interaktionen sind nur in Mehrspielerwelten verfügbar
+die … und %s weitere …
+der Abgebrochene
+Die Verbindung zum Server kann nicht hergestellt werden
+die Serveradresse kann nicht aufgelöst werden
+das Fertig
+die Inkompatible Version!
+die Nachricht des Tages: %s
+die (Keine Verbindung)
+das Veraltete
+das Online
+die %s ms
+der Ping: %s Millisekunden
+die Abfragen …
+die %s von %s Spielern online
+das wird beendet
+die Statusanfrage wurde bearbeitet
+Die ???
+den Status ohne Anfrage erhalten
+die Server‐Version: %s
+das Aufstehen
+Das Ressourcenpaket des Servers konnte nicht angewendet werden
+the Jene Funktionalität, sterben benutzerdefinierte Ressourcen erfordert, arbeitet möglicherweise nicht wie erwartet
+the This Server empfiehlt die Verwendung eines benutzerdefinierten Ressourcenpakets.
+Möchtest du es automatisch herunterladen und installieren?
+die %s
+
+Nachricht vom Server:
+%S
+der Mehrspielermodus spielen
+the Die auf diesem Server gesendeten Nachrichten können verändert werden und möglicherweise nicht der ursprünglichen Nachricht entsprechen.
+die Chatnachrichten können nicht überprüft werden
+the Diesen Hinweis nicht mehr anzeigen
+Vorsicht: Mehrspielermodus von Drittanbietern
+the Vorsicht: Der Mehrspielermodus WIRD über Drittanbieter‐Server angeboten, sterben Mojang Studios oder Microsoft weder gehören, noch von diesen betrieben oder überwacht Werden. Bei der Verwendung des Mehrspielermodus könntenst du unmoderierten Chatnachrichten oder sonstigen nutzergenerierten Inhalten ausgesetzt sein, die womöglich nicht für jeden wahrscheinlich sind.
+der Knopf: %s
+die Eingabetaste drücken, um zu aktivieren
+den Linksklick zum Aktivieren
+das Kontrollkästchen: %s
+die Eingabetaste drücken, um umzuschalten
+den Linksklick zum Umschalten
+die Tabulatortaste drücken, um zum nächsten Element zu wechseln
+die Eingabetaste drücken, um zu %s zu wechseln
+den Linksklick, um zu %s zu wechseln
+das Eingabefeld: %s
+das Rezept für %s
+den Linksklick zum Auswählen
+der Rechtsklick, um mehr Rezepte anzuzeigen
+die Obere oder Untere Pfeiltaste drücken, um zu einem anderen Eintrag zu wechseln
+die Linke oder rechte Pfeiltaste drücken, um den Wert zu ändern
+den Schieberegler ziehen, um den Wert zu ändern
+der Vorschlag %s von %s ausgewählt: %s
+der Vorschlag %s von %s ausgewählt: %s (%s)
+die Steuerung und Tabulatortaste
