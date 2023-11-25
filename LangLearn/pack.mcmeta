@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "pack_format": 18,
+        "description": "Immersive language learning language pack"
+    },
+    "language": {
+        "de_x": {
+            "name": "Deutschlernen",
+            "region": "World",
+            "bidirectional": "false"
+        }
+    }
+}
