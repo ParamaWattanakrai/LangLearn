@@ -17,10 +17,10 @@ key_list = list(data.keys())
 i = 0
 for value in data.values():
     doc = nlp(value)
-    converted_text = ''
+    converted_text = value
     for token in doc:
         coded_noun = token.text
-        if token.pos_ == "NOUN" and token.morph.get("Gender"):
+        if (token.pos_ == "NOUN" or token.pos_ == "PROPN") and token.morph.get("Gender") and token.text != '%':
             gender = token.morph.get("Gender")[0]
             if gender == 'Masc':
                 prefix = '\u00A79'
@@ -29,13 +29,7 @@ for value in data.values():
             if gender == 'Neut':
                 prefix = '\u00A75'
             coded_noun = prefix + token.text + '\u00A7r'
-        if token.pos_ == "PUNCT":
-            converted_text += coded_noun
-        else:
-            converted_text += ' ' + coded_noun
-    converted_text = converted_text[1:]
-    converted_text = converted_text.replace('‚ ', ' ‚')
-    converted_text = converted_text.replace('„ ', ' „')
+        converted_text = converted_text.replace(token.text, coded_noun)
     data[key_list[i]] = converted_text
     if i % 43 == 0:
         print(f'{i}/{len(key_list)}: {converted_text}')
