@@ -1,0 +1,14 @@
+{
+    "accessibility.onboarding.accessibility.button": "Schritte",
+    "tutorial.look.description": "Bewege die §cMaus",
+    "tutorial.look.title": "Sieh dich um",
+    "tutorial.move.description": "§5Springe mit §5% s",
+    "tutorial.move.title": "§9Laufe mit §5% s , % s , % s und % s",
+    "tutorial.open_inventory.description": "§5Drücke % s",
+    "tutorial.open_inventory.title": "Öffne dein §5Inventar",
+    "tutorial.punch_tree.description": "Halte % s fest",
+    "tutorial.punch_tree.title": "§9Fälle den §9Baum",
+    "tutorial.socialInteractions.description": "§5Drücke % s zum §5Öffnen",
+    "tutorial.socialInteractions.title": "Soziale §cInteraktionen",
+    "upgrade.minecraft.netherite_upgrade": "§cNetheritaufwertung"
+}

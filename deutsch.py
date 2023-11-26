@@ -27,8 +27,11 @@ for value in data.values():
             if gender == 'Fem':
                 prefix = '\u00A7c'
             if gender == 'Neut':
-                prefix = '\u00A75'
-            coded_noun = prefix + token.text + '\u00A7r'
+                prefix = '\u00A7a'
+            if token.lemma_ != token.text:
+                coded_noun = token.text.replace(token.lemma_, prefix + token.lemma_ + '\u00A7e') + '\u00A7r'
+            else:
+                coded_noun = prefix + token.text + '\u00A7r'
         converted_text = converted_text.replace(token.text, coded_noun)
     data[key_list[i]] = converted_text
     if i % 43 == 0:

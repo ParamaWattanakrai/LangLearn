@@ -1,7 +1,7 @@
 import spacy
 
 nlp = spacy.load("de_dep_news_trf")
-doc = nlp("Diamantharnish")
+doc = nlp("Studenten")
 for token in doc:
     print(token)
     print(token.pos_)
